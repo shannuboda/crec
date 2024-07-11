@@ -130,7 +130,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="container">
     <div class="breadcrumb">Department > Management Studies</div>
     <div class="col-md-9 page rightcontent">
-      <h1 class="page-title">Department of Management Studies</h1>
+
+
+      <div id="introduction" class="main-content" style="display: block;">
+  <!-- Content for Introduction -->
+  <h1 class="page-title">Department of Management Studies</h1>
           <strong>Programmes Offered</strong>
           <br>PG - Master of Business Administration (MBA)<br><br>
       <div class="clearfix"></div>
@@ -256,25 +260,317 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li>Regular guest lectures by industry experts in different functional areas</li>
       </ul>
       </p>
+</div>
+
+<div id="peos" class="main-content" style="display: none;">
+  <!-- Content for PEOs -->
+  <h1 class="page-title">PROGRAMME  EDUCATIONAL OBJECTIVES</h1>
+      <div class="clearfix"></div>
+      <p><ul><li>
+     Graduates will accomplish the managerial expertise in and be successful in their career, be leaders in multi-disciplinary teams.</li><li>
+Graduates will have the ability to engage in sustained learning through higher studies and update the knowledge in the field.</li><li>
+Graduates will apply the professional knowledge in their profession with good ethical standards for the welfare of mankind.</li></ul>
+      <br>
+      </p>
+</div>
+
+<div id="pos" class="main-content" style="display: none;">
+  <!-- Content for POs -->
+  <h1 class="page-title">PROGRAMME  OUTCOMES</h1>
+      <div class="clearfix"></div>
+      <p>
+      <ul>  
+<li>An ability to apply knowledge of Finance, Marketing and Human Resources.</li>
+<li>An ability to identify the problems, analyze and interpret the solution.</li>
+<li>An ability to function on multidisciplinary teams.</li>
+<li>An ability to identify, formulates, and solves Management problems.</li>
+<li>An understanding of professional and ethical responsibility.</li>
+<li>An ability to communicate effectively.</li>
+<li>The broad education necessary to understand the impact of Management solutions in a global, economic, environmental, and societal context.</li>
+<li>A recognition of the need for, and an ability to engage in life-long learning.</li>
+<li>Knowledge of contemporary issues.</li>
+<li>An ability to use the concepts to make important decisions in various walks of life and business.</li>
+      </ul>
+      </p>
+</div>
+
+<div id="opportunities" class="main-content" style="display: none;">
+  <!-- Content for Opportunities -->
+  <h1 class="page-title">Opportunities</h1>
+      <p> 
+MBA program is an investment rather than an expenditure. The value of an MBA degree cannot be denied. To realize the worth of the degree, one has to join an MBA program and enjoy the astounding benefits and career opportunities this course offers.
+<br /><br />
+In terms of career opportunities, MBA provides a range of career opportunities in various different fields. It can help in getting higher level positions with a good salary package. Many business positions like investment banking, human resources, marketing, finance and management consulting require an MBA for prospective advancement. </p>
+
+</div>
+
+<div id="lab" class="main-content" style="display: none;">
+  <!-- Content for Lab Facility -->
+  <div class="clearfix"></div>
+    <h1 class="page-title">Lab Facility</h1>
+  <p>
+  The department has the following well equipped laboratories.<br><br />
+<h4 class="page-title">Novell Laboratory</h4>
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="title" width="80">Server</td>
+      <td width="80">Hardware</td>
+      <td>INTEL PIII 866 Mhz supporting 35 diskless nodes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Software</td>
+      <td>Novel Netware 5.0, C, C++, Fortran, Cobol &amp; Foxpro</td>
+    </tr>
+    <tr>
+      <td class="title">Nodes</td>
+      <td>Hardware</td>
+      <td>Pentium II, 32 MB RAM</td>
+    </tr>
+    <tr>
+      <td class="title">Others</td>
+      <td></td>
+      <td>Printers, Scanners, Modems, etc.</td>
+    </tr>
+  </tbody>
+</table>
+<h4 class="page-title">Unix Laboratory</h4>
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="title" width="80">Server</td>
+      <td width="80">Hardware</td>
+      <td>INTEL PIII 866 Mhz supporting 35 nodes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Software</td>
+      <td>Sco Unix 5.0.5, Oracle Server, C,C++, Fortran, Java</td>
+    </tr>
+    <tr>
+      <td class="title">Nodes</td>
+      <td>Hardware</td>
+      <td>Pentium III/Celeron , 128 MB RAM,20 GB HDD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Software</td>
+      <td>Windows 95/98,Visual Studio 6.0,Programming Language Compiler</td>
+    </tr>
+    <tr>
+      <td class="title">Others</td>
+      <td></td>
+      <td>Printers etc.</td>
+    </tr>
+  </tbody>
+</table>
+<h4 class="page-title">Windows 95/98 Laboratory</h4>
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="title" width="80">Server</td>
+      <td width="80">Hardware</td>
+      <td>Compaq Proliant ML330 Server supporting 35 nodes</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Software</td>
+      <td>Windows NT Server, Java web server</td>
+    </tr>
+    <tr>
+      <td class="title">Nodes</td>
+      <td>Hardware</td>
+      <td>Pentium III, 128 MB RAM, 10 GB HDD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Software</td>
+      <td>Windows 95/98,Vx2000, Java , Visual Studio 6.0, Borland C++, Pascal, Fortran, Cobol &amp; Foxpro</td>
+    </tr>
+    <tr>
+      <td class="title">Others</td>
+      <td></td>
+      <td>Printers, Scanners, Modems, etc.</td>
+    </tr>
+  </tbody>
+</table>
+  </p>
+</div>
+
+<div id="faculty" class="main-content" style="display: none;">
+  <!-- Content for Faculty -->
+  <div class="clearfix"></div>
+      <h1 class="page-title">Faculty</h1>
+      <p>
+Page last updated on 01.04.2022
+      <table class="table">
+        <tr>
+          <th>Sl.No.</th>
+          <th>Name of the Faculty</th>
+          <th>Designation</th>
+        </tr>
+<tr><td>1</td><td>Dr. C.B.Ragothaman</td><td>Professor </td></tr>
+<tr><td>2</td><td>Dr. Sankararaman G</td><td>Professor </td></tr>
+<tr><td>3</td><td>Dr. Srikanth R</td><td>Professor </td></tr>
+<tr><td>4</td><td>Dr. Uma Raman M</td><td>Professor & HOD</td></tr>
+<tr><td>5</td><td>Dr.S.Suresh</td><td>Assistant Professor (SG)</td></tr>
+<tr><td>6</td><td>Mrs. U. Devika</td><td>Assistant Professor (SG)</td></tr>
+<tr><td>7</td><td>Mrs. S. Deborah Sharon</td><td>Assistant Professor (SS)</td></tr>
+<tr><td>8</td><td>Mr.K. Kumar</td><td>Assistant Professor</td></tr>
+<tr><td>9</td><td>Mrs.K. P. Sajana</td><td>Assistant Professor</td></tr>
+<tr><td>10</td><td>Mrs.B. Babitha Lucin Rani</td><td>Assistant Professor</td></tr>
+<tr><td>11</td><td>Dr. Sapna Kumari</td><td>Assistant Professor</td></tr>
+<tr><td>12</td><td>Ms. Darrani Shree R S</td><td>Assistant Professor</td></tr>
+
+<!--
+        <tr>
+      <td data-sheets-value="{'1':3,'3':1}">1</td>
+      <td data-sheets-value="{'1':2,'2':'Dr.M.Uma Raman'}">Dr.M.Uma Raman</td>
+      <td data-sheets-value="{'1':2,'2':'Professor'}">Professor and Head</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':2}">2</td>
+      <td data-sheets-value="{'1':2,'2':'Dr. C.B.Ragothaman'}">Dr. C.B.Ragothaman</td>
+      <td data-sheets-value="{'1':2,'2':'Professor'}">Professor </td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':3}">3</td>
+      <td data-sheets-value="{'1':2,'2':'Dr. Sankararaman G'}">Dr. Sankararaman G</td>
+      <td data-sheets-value="{'1':2,'2':'Professor'}">Professor </td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':4}">4</td>
+      <td data-sheets-value="{'1':2,'2':'Dr.R.Srikanth'}">Dr.R.Srikanth</td>
+      <td data-sheets-value="{'1':2,'2':'Professor'}">Professor </td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':5}">5</td>
+      <td data-sheets-value="{'1':2,'2':'Mrs. U. Devika'}">Mrs. U. Devika</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor (SG)'}">Assistant Professor (SG)</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':6}">6</td>
+      <td data-sheets-value="{'1':2,'2':'Dr.S.Suresh'}">Dr.S.Suresh</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor (SG)'}">Assistant Professor (SG)</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':7}">7</td>
+      <td data-sheets-value="{'1':2,'2':'Mrs. S. Deborah Sharon'}">Mrs. S. Deborah Sharon</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor (SS)'}">Assistant Professor (SS)</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':8}">8</td>
+      <td data-sheets-value="{'1':2,'2':'Mr.K. Kumar'}">Mr.K. Kumar</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor'}">Assistant Professor</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':9}">9</td>
+      <td data-sheets-value="{'1':2,'2':'Ms.K.P.Sajana'}">Ms.K.P.Sajana</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor'}">Assistant Professor</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':10}">10</td>
+      <td data-sheets-value="{'1':2,'2':'B. Babitha Lucin Rani'}">Ms.B. Babitha Lucin Rani</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor'}">Assistant Professor</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':11}">11</td>
+      <td data-sheets-value="{'1':2,'2':'Dr.Sapna Kumari'}">Dr.Sapna Kumari</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor'}">Assistant Professor</td>
+    </tr>
+    <tr>
+      <td data-sheets-value="{'1':3,'3':12}">12</td>
+      <td data-sheets-value="{'1':2,'2':'R.S. Darani Shree'}">Ms.R.S. Darani Shree</td>
+      <td data-sheets-value="{'1':2,'2':'Assistant Professor'}">Assistant Professor</td>
+    </tr>
+-->
+      </table>
+      </p>
+
+</div>
+
+<div id="achievements" class="main-content" style="display: none;">
+  <!-- Content for Achievements -->
+  <div class="clearfix"></div>
+    <h1 class="page-title"> Achievements</h1>
+      <p>
+      <ul><li>Thirteen batches have successfully passed out and well placed in reputed companies across the Globe.</li>
+<li>Excellent placements in reputed companies across the country.</li>
+<li>The department does lot of social support and CSR activities apart from regular academic activities.</li>
+<li>49 university ranks secured by the students since the inception of the Department.</li>
+<li>We provide extra certified courses in tie up with professional bodies like CII, FCA, MMA & Big bazaar.</li>
+<li>Excellent Interaction with industries like TVS, Mando India Ltd, SAIL, L&T etc for projects and placements of students.</li>
+<li>Students extracurricular participations exceed hundred in a year in colleges across Tamilnadu.</li>
+</ul>
+
+      </p>
+</div>
+
     </div>
     <div class="col-md-3 left-bar leftsidebar">
       
-<ul class="dept-bar">
+    <ul class="dept-bar">
   <li class="left-bar-title dropbtn">Department</li>
-  <li class="active"><img src="image/icons/info-icons.png" class="black" /> <a href="dept-mba-intro.php">Introduction</a></li>
-  <li class=""><img src="image/icons/objectives.png" class="black" /> <a href="dept-mba-objectives.php">PEOs</a></li>
-  <li class=""><img src="image/icons/outcomes.png" class="black" /> <a href="dept-mba-outcomes.php">POs</a></li>
-  <li class=""><img src="image/icons/opport.png" class="black" /> <a href="dept-mba-opportunities.php">Opportunities</a></li>
-  <li class=""><img src="image/icons/cse-lab.png" class="black" /> <a href="dept-mba-lab.php">Lab Facility</a></li>
-  <li class=""><img src="image/icons/faculty.png" class="black" /> <a href="dept-mba-faculty.php">Faculty</a></li>
-  <li class=""><img src="image/icons/achieve.png" class="black" /> <a href="dept-mba-achievements.php">Achievements</a></li>
+  <li id="tab-introduction" class="active">
+    <img src="image/icons/info-icons.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'introduction')">Introduction</a>
+  </li>
+  <li id="tab-peos">
+    <img src="image/icons/objectives.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'peos')">PEOs</a>
+  </li>
+  <li id="tab-pos">
+    <img src="image/icons/outcomes.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'pos')">POs</a>
+  </li>
+  <li id="tab-opportunities">
+    <img src="image/icons/opport.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'opportunities')">Opportunities</a>
+  </li>
+  <li id="tab-lab">
+    <img src="image/icons/cse-lab.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'lab')">Lab Facility</a>
+  </li>
+  <li id="tab-faculty">
+    <img src="image/icons/faculty.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'faculty')">Faculty</a>
+  </li>
+  <li id="tab-achievements">
+    <img src="image/icons/achieve.png" class="black" />
+    <a href="#" onclick="switchTab(event, 'achievements')">Achievements</a>
+  </li>
 </ul>
+
       <div class="clearfix"></div>
     </div>
   </div>
 </div>
 
 <!-- code page end -->
+<script>
+    // JavaScript to handle tab switching and active state
+    function switchTab(event, section) {
+        // Remove active class from all tabs
+        // document.getElementById('profile-tab').textContent = "NAAC ->"+section;
+        var tabs = document.querySelectorAll('.leftsidebar ul li');
+        tabs.forEach(tab => {
+            tab.classList.remove('active');
+        });
+
+        // Add active class to clicked tab
+        document.getElementById('tab-' + section).classList.add('active');
+
+        // Hide all content sections
+        var sections = document.querySelectorAll('.main-content');
+        sections.forEach(sec => {
+            sec.style.display = 'none';
+        });
+
+        // Show the selected content section
+        document.getElementById(section).style.display = 'block';
+    }
+    </script>
 <?php include('./includes/footer.php');?>
 </body>
 </html>
