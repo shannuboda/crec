@@ -436,31 +436,79 @@
                         </p>
                     </div>
                     <div id="faculty" class="main-content" style="display: none;">
-  <!-- Content for Faculty -->
-  <div class="clearfix"></div>
-      <h1 class="page-title">Faculty</h1>
-      <p>
-Page last updated on 01.04.2022
-      <table class="table">
-        <tr>
-          <th>Sl.No.</th>
-          <th>Name of the Faculty</th>
-          <th>Designation</th>
-        </tr>
-<tr><td>1</td><td>Dr. C.B.Ragothaman</td><td>Professor </td></tr>
-<tr><td>2</td><td>Dr. Sankararaman G</td><td>Professor </td></tr>
-<tr><td>3</td><td>Dr. Srikanth R</td><td>Professor </td></tr>
-<tr><td>4</td><td>Dr. Uma Raman M</td><td>Professor & HOD</td></tr>
-<tr><td>5</td><td>Dr.S.Suresh</td><td>Assistant Professor (SG)</td></tr>
-<tr><td>6</td><td>Mrs. U. Devika</td><td>Assistant Professor (SG)</td></tr>
-<tr><td>7</td><td>Mrs. S. Deborah Sharon</td><td>Assistant Professor (SS)</td></tr>
-<tr><td>8</td><td>Mr.K. Kumar</td><td>Assistant Professor</td></tr>
-<tr><td>9</td><td>Mrs.K. P. Sajana</td><td>Assistant Professor</td></tr>
-<tr><td>10</td><td>Mrs.B. Babitha Lucin Rani</td><td>Assistant Professor</td></tr>
-<tr><td>11</td><td>Dr. Sapna Kumari</td><td>Assistant Professor</td></tr>
-<tr><td>12</td><td>Ms. Darrani Shree R S</td><td>Assistant Professor</td></tr>
+                        <!-- Content for Faculty -->
+                        <div class="clearfix"></div>
+                        <h1 class="page-title">Faculty</h1>
+                        <p>
+                            Page last updated on 01.04.2022
+                        <table class="table">
+                            <tr>
+                                <th>Sl.No.</th>
+                                <th>Name of the Faculty</th>
+                                <th>Designation</th>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>Dr. C.B.Ragothaman</td>
+                                <td>Professor </td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Dr. Sankararaman G</td>
+                                <td>Professor </td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Dr. Srikanth R</td>
+                                <td>Professor </td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Dr. Uma Raman M</td>
+                                <td>Professor & HOD</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Dr.S.Suresh</td>
+                                <td>Assistant Professor (SG)</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Mrs. U. Devika</td>
+                                <td>Assistant Professor (SG)</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Mrs. S. Deborah Sharon</td>
+                                <td>Assistant Professor (SS)</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Mr.K. Kumar</td>
+                                <td>Assistant Professor</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Mrs.K. P. Sajana</td>
+                                <td>Assistant Professor</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>Mrs.B. Babitha Lucin Rani</td>
+                                <td>Assistant Professor</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>Dr. Sapna Kumari</td>
+                                <td>Assistant Professor</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>Ms. Darrani Shree R S</td>
+                                <td>Assistant Professor</td>
+                            </tr>
 
-<!--
+                            <!--
         <tr>
       <td data-sheets-value="{'1':3,'3':1}">1</td>
       <td data-sheets-value="{'1':2,'2':'Dr.M.Uma Raman'}">Dr.M.Uma Raman</td>
@@ -522,10 +570,10 @@ Page last updated on 01.04.2022
       <td data-sheets-value="{'1':2,'2':'Assistant Professor'}">Assistant Professor</td>
     </tr>
 -->
-      </table>
-      </p>
+                        </table>
+                        </p>
 
-</div>
+                    </div>
 
 
                     <div id="achievements" class="main-content" style="display: none;">
@@ -1036,7 +1084,8 @@ Page last updated on 01.04.2022
                                                 under dynamic loading conditions at an elevated temperature&rdquo;,
                                                 Materials Today: Proceedings, July 2021, ISSN: 2214-7853Publisher:
                                                 Elsevier Ltd, DOI:
-                                                <u>https://doi.org/10.1016/j.matpr.2021.07.319].&nbsp;</u></p>
+                                                <u>https://doi.org/10.1016/j.matpr.2021.07.319].&nbsp;</u>
+                                            </p>
                                         </li>
                                     </ul>
 
@@ -1060,7 +1109,8 @@ Page last updated on 01.04.2022
                                                 Thanigaiarasu, S., &ldquo;Numerical Simulation of Supersonic Jet Control
                                                 by Tabs with Slanted Perforation&rdquo;,
                                                 <em>International&nbsp;</em><strong>Journal</strong><em>&nbsp;of Turbo
-                                                    &amp; Jet-Engines</em>, <u>(doi:10.1515/tjj-2019-0015),</u> 2019</p>
+                                                    &amp; Jet-Engines</em>, <u>(doi:10.1515/tjj-2019-0015),</u> 2019
+                                            </p>
                                         </li>
                                         <li>
                                             <p>R Karthicksundar, <strong>Balaji Rajendran, P K Dinesh Kumar</strong> and
@@ -1346,7 +1396,8 @@ Page last updated on 01.04.2022
                                             <td> 17.Apr.2021 </td>
                                             <td> Space Tourism and Its Future </td>
                                             <td> Mr. Boris Otter<br> <br> President and Founder, Swiss Space Tourism<br>
-                                                <br> Geneva, Switzerland<br> <br>&nbsp;&nbsp; </td>
+                                                <br> Geneva, Switzerland<br> <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> 60 <br> <br>All Third Year students of Aeronautical Engineering </td>
                                         </tr>
                                         <tr>
@@ -1356,7 +1407,8 @@ Page last updated on 01.04.2022
                                             <td> Mr. Michael Bretti<br> <br> Founder and Ceo<br> <br>Applied ION
                                                 Syatems, USA </td>
                                             <td> 68<br> <br> All Third Year students of Aeronautical Engineering<br>
-                                                <br>&nbsp;&nbsp; </td>
+                                                <br>&nbsp;&nbsp;
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td> 6. </td>
@@ -1408,7 +1460,8 @@ Page last updated on 01.04.2022
                                             <td> 24.July.2019 </td>
                                             <td> Indian Space Programme: Present and Future </td>
                                             <td> TK Sundramurthy ,Ex-ISRO<br> <br> <br> <br>&nbsp;&nbsp; <br>
-                                                <br>&nbsp;&nbsp; </td>
+                                                <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> All students from the department were participated. </td>
                                         </tr>
                                         <tr>
@@ -1416,7 +1469,8 @@ Page last updated on 01.04.2022
                                             <td> 25.July.2019 </td>
                                             <td> "Aero Engineering Thermodynamics" </td>
                                             <td> Dr. S. Sekar, Prof. Department of Mechanical Engineering, REC.<br> <br>
-                                                <br> <br>&nbsp;&nbsp; <br> <br>&nbsp;&nbsp; </td>
+                                                <br> <br>&nbsp;&nbsp; <br> <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> All 63 students from II Year (2018-2022) were participated. </td>
                                         </tr>
                                         <tr>
@@ -1425,7 +1479,8 @@ Page last updated on 01.04.2022
                                             <td> “Fluid Mechanics and Fluid machinery” </td>
                                             <td> Mr. CHANDRASEKAR.P , AP, Department of Mechanical
                                                 Engineering,&nbsp;&nbsp;REC.<br> <br> <br> <br>&nbsp;&nbsp; <br>
-                                                <br>&nbsp;&nbsp; </td>
+                                                <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> All 63 students from II Year (2018-2022) were participated. </td>
                                         </tr>
                                         <tr>
@@ -1443,7 +1498,8 @@ Page last updated on 01.04.2022
                                             <td> Mr. Mohan Kannan, Entrepreneur,&nbsp;&nbsp; <br> <br> Former
                                                 Engineering Airbus India Pvt. Ltd. (Batch 2005-2009)&nbsp;&nbsp; <br>
                                                 <br> Mr. Ganesh Babu, Pilot,<br> <br> Indigo Airlines<br> <br>(Batch
-                                                2009-2013) </td>
+                                                2009-2013)
+                                            </td>
                                             <td> All 63 students from II Year (2018 </td>
                                         </tr>
                                         <tr>
@@ -1614,7 +1670,8 @@ Page last updated on 01.04.2022
                                             <td> Webinar on "Numerical investigation of Rolling Contact Fatigue in Wind
                                                 Turbines" </td>
                                             <td> Mr. Gopalakrishnan Ravi<br> <br> Researcher at Laboratory Soete<br>
-                                                <br> Ghent university<br> <br>Belgium </td>
+                                                <br> Ghent university<br> <br>Belgium
+                                            </td>
                                             <td> All the students/faculty from department&nbsp;&nbsp;participated </td>
                                         </tr>
                                         <tr>
@@ -1624,7 +1681,8 @@ Page last updated on 01.04.2022
                                                 Covid-19 Scenario" </td>
                                             <td> Mr. D. UMA Maheshwar<br> <br> Executive Chief Consulting Engineer<br>
                                                 <br> GE Aviation, John F. Welch Technology Centre<br> <br> Bengaluru<br>
-                                                <br>&nbsp;&nbsp; </td>
+                                                <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> All the students/faculty from department&nbsp;&nbsp;participated </td>
                                         </tr>
                                         <tr>
@@ -1635,7 +1693,8 @@ Page last updated on 01.04.2022
                                                 Bengaluru<br> <br>&nbsp;&nbsp; </td>
                                             <td> All the students/faculty from department&nbsp;&nbsp;participated<br>
                                                 <br> <br> <br>&nbsp;&nbsp; <br> <br> <br> <br>&nbsp;&nbsp; <br>
-                                                <br>&nbsp;&nbsp; </td>
+                                                <br>&nbsp;&nbsp;
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td> 28. </td>
@@ -1695,7 +1754,8 @@ Page last updated on 01.04.2022
                                             <td> Webinar on “PG Admission Procedure India/Abroad And Career
                                                 Opportunities” </td>
                                             <td> Ms. Krishnapriya Kumar<br> <br> Senior Applied Mechanics Engineer<br>
-                                                <br>Cummins USA </td>
+                                                <br>Cummins USA
+                                            </td>
                                             <td> All the students/faculty from
                                                 department&nbsp;&nbsp;participated&nbsp;&nbsp; </td>
                                         </tr>
@@ -1713,7 +1773,8 @@ Page last updated on 01.04.2022
                                             <td> 27.June.2020 </td>
                                             <td> Webinar on "A brief Introduction to Climate Science and Modeling" </td>
                                             <td> Praveen Kumar Pothapakula<br> <br> PhD Research Scholar<br>
-                                                <br>&nbsp;&nbsp; </td>
+                                                <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> All the students/faculty from
                                                 department&nbsp;&nbsp;participated&nbsp;&nbsp; </td>
                                         </tr>
@@ -1748,7 +1809,8 @@ Page last updated on 01.04.2022
                                             <td> 3. </td>
                                             <td> 21 Aug 2018 </td>
                                             <td> Indian Aviation and Development of the Light Combat Aircraft (Tejas)
-                                                <br> <br>&nbsp;&nbsp; </td>
+                                                <br> <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> Shri TM Naidu,Ex Project Director ADA Bangalore </td>
                                             <td> All students from the department were participated </td>
                                         </tr>
@@ -1772,7 +1834,8 @@ Page last updated on 01.04.2022
                                             <td> 19 Sep 2018 </td>
                                             <td> Challenges in Airport Design </td>
                                             <td> Dr. S.&nbsp;&nbsp;Geetha, Professor, Civil, REC<br> <br> &amp;<br>
-                                                <br>Dr. M. Selvakumar Professor, Civil, REC </td>
+                                                <br>Dr. M. Selvakumar Professor, Civil, REC
+                                            </td>
                                             <td> All IV year students were attended </td>
                                         </tr>
                                         <tr>
@@ -1809,7 +1872,8 @@ Page last updated on 01.04.2022
                                             <td> 02 Feb 2019 </td>
                                             <td> “UAV Reasearch and Applications” </td>
                                             <td> Dr.G.Ramesh, Chief Scientist (retd) NAL<br> <br> <br> <br>&nbsp;&nbsp;
-                                                <br> <br>&nbsp;&nbsp; </td>
+                                                <br> <br>&nbsp;&nbsp;
+                                            </td>
                                             <td> [Total 180 students from the department had attended the Guest Lecture]
                                             </td>
                                         </tr>
