@@ -128,9 +128,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="profile-page">
   <div class="container">
-    <div class="breadcrumb">National Innovation and Startup Policy</div>
+    <div class="breadcrumb profile-tab">National Innovation and Startup Policy</div>
     <div class="col-md-9 page rightcontent">
-    <div class="clearfix"></div>
+      <div id="maintenance" class="main-content" style="display: block;">
+      <div class="clearfix"></div>
     <h2 class="page-title">NISP</h2>
       <p>
 The National Innovation and Startup Policy for students and faculty of Higher Education Institutions (HEIs) will enable the institutes to actively engage students, faculties and staff in innovation and entrepreneurship related activities. This framework will also facilitate Ministry of Human Resource Development in bringing uniformity across HEIs in terms of Intellectual Property ownership management, technology licensing and institutional Startup policy, thus enabling creation of a robust innovation and Start up ecosystem across all HEIs.<br>
@@ -142,21 +143,173 @@ The National Innovation and Startup Policy for students and faculty of Higher Ed
 <h2 style="text-align: center;"><a href="https://www.rajalakshmi.org/downloads/nisp/rec-nisp-rec-policy.pdf" target="_blank">CLICK HERE TO VIEW/DOWNLOAD <br>REC NISP Policy 2022</a></h2>                          
  
       </p>
+</div>
+
+<div id="policy" class="main-content" style="display: none;">
+<div class="clearfix"></div>
+    <h2 class="page-title">NISP</h2>
+      <p>
+The National Innovation and Startup Policy for students and faculty of Higher Education Institutions (HEIs) will enable the institutes to actively engage students, faculties and staff in innovation and entrepreneurship related activities. This framework will also facilitate Ministry of Human Resource Development in bringing uniformity across HEIs in terms of Intellectual Property ownership management, technology licensing and institutional Startup policy, thus enabling creation of a robust innovation and Start up ecosystem across all HEIs.<br>
+</p> 
+<br>
+
+<h2 style="text-align: center;"><a href="https://www.rajalakshmi.org/downloads/nisp/rec-nisp-policy.pdf" target="_blank">CLICK HERE TO VIEW/DOWNLOAD <br>National Innovation and Startup Policy 2019</a></h2>                          
+<br>
+ 
+      </p>
+</div>
+
+<div id="coreteam" class="main-content" style="display: none;">
+<div class="clearfix"></div>
+    <h2 class="page-title">NISP</h2>
+      <p>
+National Innovation and Start up Policy-2019 for faculty and Students of Higher Education Institutions is initiated by MHRD’s Innovation Cell and AICTE. REC adopted the NISP of AICTE AND MHRD to encourage students as well research oriented faculty towards Innovation and Entrepreneurship related activities.<br>
+To promote innovation and start-up culture amongst the students and faculty of Higher Education Institutes, the following core team is formed.<br>
+
+<h3>Chairperson</h3>
+Dr. (Mrs.) Thangam Meganathan<br><br>
+<h3>Vice Chairman</h3>
+Mr. M. Abhay Shankar<br><br>
+<h3>Principal</h3>
+Dr. S. N. Murugesan<br><br>
+<h3>Advisory Committee</h3>
+<strong>Coordinator</strong><br>
+Dr. A. Selvaraj/EEE<br><br>
+<strong>Members</strong><br>
+Dr. S.P. Srinivasan, Professor, Mechanical Engineering<br>
+Dr. Natteri M. Sudharsan, Professor, Mechanical Engineering<br>
+Dr. P. Kumar, Head, ED Cell<br>
+Dr. C.B.Ragothaman, Professor, Management Studies<br>
+Dr. Johanna Rajkumar, Professor, Biotechnology<br>
+Dr. V. Gayathri, Associate Professor, Biotechnology<br>
+</p> 
+</div>
+
+<div id="wings" class="main-content" style="display: none;">
+<div class="clearfix"></div>
+    <h2 class="page-title">NISP</h2>
+<p>
+
+<h3>NISP-EDC(Entrepreneurship Development Cell)</h3>
+Coordinator<br>
+Dr. P. Kumar,<br>
+Professor, CSE & Head, ED Cell<br><br>
+<h3>NISP-IPC (Innovative Project Cell)</h3>
+Coordinator<br>
+Dr. Johanna Rajkumar, Professor, Biotechnology<br><br>
+<h3>NISP-PATENT CELL</h3>
+Coordinator<br>
+Dr. V. Gayathri, Associate Professor, Biotechnology<br><br>
+</p> 
+<br>
+</div>
+
+<div id="schedule" class="main-content" style="display: none;">
+<div class="clearfix"></div>
+    <h2 class="page-title">NISP Tentative Schedule</h2>
+
+<table class="table">
+<tr><th width="50">S.No.</th><th>Plan</th><th>Tentative Date</th></tr>
+
+<tr>
+<td>01</td>
+<td>Orientation and Adoption of NISP to all Students and Faculty</td>
+<td>March 2nd Week</td>
+</tr>
+
+<td>02</td>
+<td>How to be a successful entrepreneur - by successful alumni</td>
+<td>March 3rd Week</td>
+</tr>
+
+<td>03</td>
+<td>Awareness on Incubation, Its importance and assessmebt by Incubation Expert</td>
+<td>March 3rd Week</td>
+</tr>
+
+<td>04</td>
+<td>Collaboration, Co-creation, Business Relationship, Development and Knowledge Exchange within campus by MSME Expert</td>
+<td>March 3rd Week</td>
+</tr>
+
+<td>05</td>
+<td>Awareness on Intellectual Property rights, Usage of IP Ownership rights for technology development in association with Patent Cell</td>
+<td>April 1st Week</td>
+</tr>
+
+<td>06</td>
+<td>Pedagogy and Learning interventions for Innovation and Entrepreneurship development by Core team and Innovation ambassadors</td>
+<td>April 2nd Week</td>
+</tr>
+
+<td>07</td>
+<td>Success stories of Entrepreneurs by successful entrepreneurs</td>
+<td>April 3rd Week</td>
+</tr>
+
+<td>08</td>
+<td>Startup registration process</td>
+<td>April 4th Week</td>
+</tr>
+
+<td>09</td>
+<td>Follow-up</td>
+<td>May 1st week</td>
+</tr>
+
+</table>
+
+</div>
+
     </div>
       
     <div class="col-md-3 left-bar leftsidebar">
    <ul class="dept-bar">
   <li class="left-bar-title">NISP</li>
-  <li class="active"><a href="nisp-policy.php">Policy</a></li>
-  <li class=""><a href="nisp-coreteam.php">Core Team</a></li>
-  <li class=""><a href="nisp-wings.php">WINGS</a></li>
-  <li class=""><a href="nisp-schedule.php">Schedule</a></li>
+  <ul id="dept-bar-2" class="dept-bar">
+    <li id="tab-policy" class="active">
+        <a href="#" onclick="switchTab(event, 'policy')">Policy</a>
+    </li>
+    <li id="tab-coreteam" class="">
+        <a href="#" onclick="switchTab(event, 'coreteam')">Core Team</a>
+    </li>
+    <li id="tab-wings" class="">
+        <a href="#" onclick="switchTab(event, 'wings')">WINGS</a>
+    </li>
+    <li id="tab-schedule" class="">
+        <a href="#" onclick="switchTab(event, 'schedule')">Schedule</a>
+    </li>
+</ul>
+
 </ul>
     <div class="clearfix"></div>
     </div>
   </div>
 </div>
 <!-- code page end -->
+<script>
+    // JavaScript to handle tab switching and active state
+    function switchTab(event, section) {
+        // Remove active class from all tabs
+        // document.getElementById('profile-tab').textContent = "NISP ->" + section;
+        var tabs = document.querySelectorAll('.leftsidebar ul li');
+        tabs.forEach(tab => {
+            tab.classList.remove('active');
+        });
+
+        // Add active class to clicked tab
+        document.getElementById('tab-' + section).classList.add('active');
+
+        // Hide all content sections
+        var sections = document.querySelectorAll('.main-content');
+        sections.forEach(sec => {
+            sec.style.display = 'none';
+        });
+
+        // Show the selected content section
+        document.getElementById(section).style.display = 'block';
+    }
+</script>
 <?php include('./includes/footer.php');?>
 </body>
 </html>

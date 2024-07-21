@@ -1096,8 +1096,9 @@ Page updated on 01.09.2019</p>
     <script>
     // JavaScript to handle tab switching and active state
     function switchTab(event, section) {
+        event.preventDefault(); // Prevent default link behavior
+
         // Remove active class from all tabs
-        document.getElementById('profile-tab').textContent = "profile->"+section;
         var tabs = document.querySelectorAll('.leftsidebar ul li');
         tabs.forEach(tab => {
             tab.classList.remove('active');
@@ -1114,8 +1115,46 @@ Page updated on 01.09.2019</p>
 
         // Show the selected content section
         document.getElementById(section).style.display = 'block';
+
+        // Optional: Scroll to the content section
+        document.getElementById(section).scrollIntoView({ behavior: 'smooth' });
     }
-    </script>
+
+    // Function to activate tab and content based on URL hash
+    function activateTabFromHash() {
+        var hash = window.location.hash.substr(1); // Get hash value without #
+        if (hash) {
+            // Activate corresponding tab and content section
+            var tab = document.getElementById('tab-' + hash);
+            if (tab) {
+                // Remove active class from all tabs
+                var tabs = document.querySelectorAll('.leftsidebar ul li');
+                tabs.forEach(tab => {
+                    tab.classList.remove('active');
+                });
+
+                // Add active class to clicked tab
+                tab.classList.add('active');
+
+                // Hide all content sections
+                var sections = document.querySelectorAll('.main-content');
+                sections.forEach(sec => {
+                    sec.style.display = 'none';
+                });
+
+                // Show the selected content section
+                document.getElementById(hash).style.display = 'block';
+
+                // Optional: Scroll to the content section
+                document.getElementById(hash).scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+    }
+
+    // Call activateTabFromHash on page load to handle initial activation
+    window.addEventListener('load', activateTabFromHash);
+</script>
+
 
     <?php include('./includes/footer.php'); ?>
 </body>
