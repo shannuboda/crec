@@ -3,24 +3,24 @@
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>INSTITUTION’S INNOVATION COUNCIL | Rajalakshmi Engineering College (REC)</title>
+<title>INSTITUTION’S INNOVATION COUNCIL | Chadalawada Ramanamma Engineering College, Tirupathi</title>
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://www.rajalakshmi.org/js/bootstrap.min.js" async="async"></script>
+<script src="./js/bootstrap.min.js" async="async"></script>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/style.css"/>
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/index.css"/>
+<link rel="stylesheet" href="./css/style.css"/>
+<link rel="stylesheet" href="./css/index.css"/>
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-<meta itemprop="name" content="Rajalakshmi Engineering College (REC), Chennai"/>
-<meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
-<meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
+<meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai"/>
+<meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
+<meta name="keywords" content="College in chennai, Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
 <meta name="robots" content="index,follow">
-<link rel="shortcut icon" href="https://www.rajalakshmi.org/image/favicon.png" >
-<meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
+<link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
+<meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai">
 <meta property="og:type" content="content">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
 <meta property="og:image:type" content="image/jpeg">
@@ -129,53 +129,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="profile-page">
  
   <div class="container">
-    <div class="breadcrumb">INSTITUTION’S INNOVATION COUNCIL</div>
+    <div class="breadcrumb">INSTITUTION VIDEOS</div>
     <div class="col-md-12 page rightcontent">
     <div class="clearfix"></div>
-    <h1 class="page-title">INSTITUTION’S INNOVATION COUNCIL</h1>
-      <p>
-    <b>Vision</b> <br>
- 
-To achieve recognition as an institution of excellence in innovation promotion ecosystem.<br><br>
-
-<b>Mission</b>
- <ul>
-<li>Conduct periodic workshops/seminars to expose and promote innovative thinking</li>
-<li>Network with entrepreneur development cell </li>
-<li>Organize idea contests to showcase the innovative ideas </li>
-<li>Define and direct focused technical innovations targeting national priorities</li>
-<li>Follow guidelines recommended by MHRD's IIC initiative</li>
-</ul>
-<br>
-The Institution’s Innovation Council has been constituted as prescribed by MHRD-IIC initiative. The activities of the council are carried out on a programmed schedule to promote innovative thinking among the students. IIC activities are managed through two cells within the institution to handle and promote innovative thinking namely Innovative Project Cell (IPC) and Intellectual Property Rights (IPR) Cell. 
-	Workshops/Seminars to improve the cognitive ability and boot camp for entrepreneurship development are organized periodically for the students. The IPC conducts idea contests regularly to showcase and recognize innovative ideas and IPR provides motivation and guidelines to incubate ideas for start-ups.  
-</p>
-<h2 class="page-title">INNOVATIVE PROJECT CELL</h2>
-<p>
-<b>Vision</b> <br>
-
-To be a recognized lead centre providing a fertile environment and forum for aspiring engineering professionals, enabling them to evolve new ideas and transform these ideas to useful solutions for the benefit of the society and welfare of mankind.
-<br>
-<b>Mission</b>
-<ul>
-<li>To nurture and promote innovative thinking among students</li>
-<li>Provide a healthy competitive environment to develop innovative solutions</li>
-<li>Provide financial support for building prototypes</li>
-<li>Encourage IP protection and entrepreneurship for deserving solutions</li>
-</ul>
-</p>
-<h2 class="page-title">INTELLECTUAL PROPERTY RIGHTS CELL</h2>
-<p>
-<b>Vision</b> <br>
- 
-To be a centre of excellence in providing an ambience to transform innovative thinking into product ideas that lead to start-ups and entrepreneurship ventures. 
-<br><br>
-<b>Mission</b><br>
- 
-To identify and protect intellectual properties created by faculty and students of the institution  that have value in providing innovative solutions as well as support entrepreneurship and start-ups to build useful products.
-
-<br>
-</p>
+    <style>
+        /* Container for responsive video */
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            background: #000;
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    
+    <h1 class="page-title">INSTITUTION VIDEOS</h1>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/GdgF970HQ2Q" frameborder="0" allowfullscreen></iframe>
+    </div>
 
    </div>
     <div class="clearfix"></div>

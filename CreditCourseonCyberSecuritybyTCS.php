@@ -19,7 +19,7 @@
 <meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
 <meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
 <meta name="robots" content="index,follow">
-<link rel="shortcut icon" href="https://www.rajalakshmi.org/image/favicon.png" >
+<link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
 <meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
 <meta property="og:type" content="content">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">

@@ -3,7 +3,7 @@
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Graduation Day 2020 :: 14.03.2020 | Rajalakshmi Engineering College (REC)</title>
+<title>Graduation Day 2020 :: 14.03.2020 | Chadalawada Ramanamma Engineering College, Tirupathi</title>
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
 <link rel="stylesheet" href="https://www.rajalakshmi.org/css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>

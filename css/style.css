@@ -36,7 +36,7 @@ body {
 	margin: 0;
 }
 .topbar {
-	background: #810081;
+	background: rgba(254, 204, 0,.9);
 	/*
 	background: rgb(80,0,80); /* For browsers that do not support gradients */
 	/* background: -webkit-linear-gradient(rgb(80,0,80), rgb(169,0,167))/* For Safari 5.1 to 6.0 */
@@ -77,7 +77,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	display: block;
 }
 li.dropdown:hover .nav li {
-	background-color: #800080;
+	background-color: #800000;
 	color: #fff;
 }
 .logo-section img.logo {
@@ -205,7 +205,7 @@ font-size: 12px;
 	margin-left: 0px !important;
 }
 .top-bar-menu {
-	background: #810081;
+	background: #ff5421;
 	z-index: 1;
 	display: inline;
 	position: relative;
@@ -230,8 +230,7 @@ a.banner-button {
 	color: #fff;
 	margin-bottom: 150px;
 }
-a:hover {
-}
+
 .logo img {
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
@@ -240,9 +239,7 @@ a:hover {
 .navbar-brand {
 	padding: 0px 0px;
 }
-.navbar-toggle {
-	background: rgb(80,0,80);
-}
+
 .navbar-toggle .icon-bar {
 	background: #fff;
 }
@@ -252,10 +249,10 @@ a:hover {
 }
 .navbar-nav li a:hover {
 	color: #fff !important;
-	background: #710071;
+	background: #ff5421!important;
 }
 .navbar-nav>li.active>a {
-	background: #710071;
+	background: #ff5421;
 	color: #fff;
 }
 .dropdown a {
@@ -284,7 +281,7 @@ button {
 }
 .info-box:hover .info-text {
 	display: block;
-	background: rgba(80,0,80,.8);
+	background: #fecc00;
 	width: 100%;
 	height: 180px;
 	padding: 15px;
@@ -407,7 +404,7 @@ blockquote {
 }
 #myCarousel .carousel-caption {
  text-align: left !important;
- background: rgba(71,0,71,.8);
+ background: #e4522a;
  padding: 20px;
 }
 #myCarousel .carousel-control.left {
@@ -423,12 +420,12 @@ blockquote {
  bottom: 20px;
 }
 .footer {
- background: url(../image/pattern.jpg);
+ background: black;
  padding: 10px;
  color: #fff;
 }
 .purple {
- background: #800080;
+ 
  padding: 10px;
  color: #fff;
 }
@@ -463,10 +460,11 @@ blockquote {
  min-height: 110px;
 }
 .event {
- color: #800080;
+ color:#e44911;
 }
 .event p {
- color: rgba(80,0,80,.8);
+ color: rgb(193 42 197 / 83%);
+ font-weight: 699;
 }
 .event-image img {
  width: 100%;
@@ -487,20 +485,20 @@ blockquote {
 .view-more:hover {
  text-decoration: none;
  animation: ease-in .5ms;
- background: #800080;
+ background: #ff5421;
  color: #fff;
 }
 .view-more-1 {
  background: none;
  text-decoration: none;
- color: #800080;
+ color: #ff5421;
  font-size: 14px;
  font-weight: 600;
 }
 .view-more-1:hover {
  text-decoration: none;
  animation: ease-in .5ms;
- color: #800080;
+ color: rgba(254, 204, 0,.9);
 }
 .fa {
  font-size: 26px;
@@ -515,6 +513,7 @@ blockquote {
 }
 .left-bar ul {
  list-style: none;
+ background: #fccc24!important;
 }
 .left-bar ul {
  padding: 0px;
@@ -524,7 +523,7 @@ blockquote {
 }
 .left-bar li {
  border-bottom: 1px dotted #a3a3a3;
- background: url(../image/noise.png) #D8D8D8;
+ /* background: url(../image/noise.png) #D8D8D8; */
 }
 .left-bar li a {
  padding: 0px 0 5px 0px;
@@ -532,7 +531,7 @@ blockquote {
  text-decoration: none;
 }
 .left-bar li:hover {
- background: rgba(80,0,80,.8);
+ background: #ff5421;
  color: #FFF !important;
  -webkit-transition: 0.3s;
  -moz-transition: 0.3s;
@@ -543,7 +542,7 @@ blockquote {
  color: #fff;
 }
 .left-bar li.active {
- background: rgba(80,0,80,.9);
+ background: #ff5421;
 }
 .left-bar li.active a {
  color: #fff;
@@ -553,7 +552,7 @@ blockquote {
 	color: #fff;
 }
 .left-bar-title {
- background: #800080 !important;
+ background: #b17db7 !important;
 }
 .left-bar-title {
  font-size: 16px;
@@ -644,6 +643,7 @@ position: relative;
 .page p {
  text-align: justify;
  padding-top: 15px;
+ line-height: 25px;
 }
 .page ul {
  padding-left: 35px;
@@ -723,13 +723,13 @@ svg#information:hover {
  position:fixed;
  bottom:150px;
  padding:20px;
- background:rgb(244, 200, 14);
+ background:#ff5421;
  text-align:center;
- color:#710071;
+ color:#ffffff;
  font-size:18px;
 }
 .float-right a {
- color:#810081;
+ color:#f9c926;
 }
 @media (max-width: 1200px) {
  .navbar-header {
@@ -770,3 +770,4 @@ svg#information:hover {
  border-radius:0px;
 }
 }
+

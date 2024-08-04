@@ -3,7 +3,7 @@
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Accreditations | Rajalakshmi Engineering College (REC)</title>
+<title>Accreditations | Chadalawada Ramanamma Engineering College, Tirupathi</title>
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
 <link rel="stylesheet" href="https://www.rajalakshmi.org/css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -15,17 +15,17 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-<meta itemprop="name" content="Rajalakshmi Engineering College (REC), Chennai"/>
-<meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
-<meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
+<meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi, "/>
+<meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi, " />
+<meta name="keywords" content="College in , Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Tirupathi, " />
 <meta name="robots" content="index,follow">
-<link rel="shortcut icon" href="https://www.rajalakshmi.org/image/favicon.png" >
-<meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
+<link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
+<meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi, ">
 <meta property="og:type" content="content">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:url" content="https://rajalakshmi.org">
-<meta property="og:site_name" content="Rajalakshmi Engineering College Chennai, Engineering Admission 2017">
+<meta property="og:site_name" content="Rajalakshmi Engineering College , Engineering Admission 2017">
 <meta property="og:description" content="Rajalakshmi Engineering College, approved by AICTE, New Delhi, established in the year 1997 currently offers 14 UG and 9 PG courses and also offers 9 Research programmes (Ph.D./M.S.). ">
 <meta name="google-site-verification" content="mD0Van-bkokkLfAG2HLtIh2uQNt2utECAXBoAxQOWXw" />
 <meta name="facebook-domain-verification" content="trlupjxgtzur1yiahpwufmcaju7bv7" />

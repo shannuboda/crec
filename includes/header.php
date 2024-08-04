@@ -19,7 +19,7 @@ function isActive($pageName) {
 .main-heading:hover,
 .dropdown-toggle:hover,
 .dropdown-menu li>a:hover {
-    background: rgba(80, 0, 80, .9) !important;
+    background: #ff5421 !important;
     color: white !important;
 }
 
@@ -68,7 +68,7 @@ function isActive($pageName) {
         top: 35px;
         left: 25px;
         border-radius: 0 0 0 29px;
-        background: #810081;
+        background: #f9c926;
     }
 
     .drop-sub:hover {
@@ -77,7 +77,7 @@ function isActive($pageName) {
         top: 35px;
         left: 25px;
         border-radius: 0 0 0 29px;
-        background: #810081;
+        background: #f9c926;
     }
 
     .drop-sub li {
@@ -104,33 +104,46 @@ function isActive($pageName) {
 ol>li {
     margin-bottom: 0.50rem;
 }
+
+.main-top-header {
+    width: 100% !important;
+}
+
+@media (max-width: 1200px) {
+    .navbar-header {
+        float: none;
+        display: flex !important;
+        background: orange
+    }
+    .logo{
+        height: 6rem;
+    width: inherit;
+    margin-left: -4rem;
+    }
+    #myNavbar{
+        float:inline-start!important;
+        width: -webkit-fill-available!important;
+    }
+}
+
+
 </style>
 
 <div class="container-fluid topbar">
 
 </div>
-<div class="container">
+<div class="container main-top-header">
     <div class="col-md-12 col-xs-9 logo-section">
         <div class="col-md-3 col-xs-9" style="z-index:9;">
             <a href="index.php">
-                <img src="./image/logo2.png" alt="Rajalakshmi Engineering College" class="logo"
-                    title="Rajalakshmi Engineering College (REC), Chennai" />
+                <img src="./image/CREC-Logo2.jpg" alt="Chadalawada Ramanamma Engineering College, Tirupathi" class="logo" title="" />
             </a>
 
         </div>
-        <div class="col-md-5 col-md-5-custom col-xs-3 aspire"> <a
-                href="http://www.rajalakshmi.org/downloads/ARIIA/REC_ARIIA_ DATASUBMISSIONDETAILREPORT.pdf"
-                target="_blank"><img src="https://www.rajalakshmi.org//image/UN-logo.png"
-                    alt="MEMBER - UNITED NATIONS ACADEMIC IMPACT" title="MEMBER - UNITED NATIONS ACADEMIC IMPACT" /></a>
-        </div>
+
         <span class="top-bar-menu">
             <ul>
                 <li style="padding-left:15px;"></li>
-
-                <!--
-  <li><a href="#" class="drop-top" target="_blank">Admissions<ul class="drop-sub"><a href="https://www.rajalakshmi.org/engineering-admissions-2019/" target="_blank">UG Admissions</a></li><li><a href="https://www.rajalakshmi.org/pg-admissions-2019/" target="_blank">PG Admissions</a></li></ul><li><li> | <li><a href="ebrochure.php" target="_blank">e-brochure</a> | <li><a href="contact-us.php">Contact Us</a></li></ul> </span> </div><div class="col-md-12" style="border-top:1px solid #CCCCCC;"></div>
--->
-
                 <li class="drop-top"><a href="#" target="_blank">Admissions</a>
                     <ul class="drop-sub">
                         <li><a href="https://www.rajalakshmi.org/2024/organic" target="_blank">UG Admissions</a></li>
@@ -163,7 +176,7 @@ ol>li {
     <!--
 <li><a href="recinnews.php">In the Media</a>
 -->
-    <div class="col-md-12 no-padding">
+    <div class="col-md-12 no-padding header-im-design">
 
         <nav class="navbar">
             <style>
@@ -182,6 +195,19 @@ ol>li {
                 color: #333 !important;
                 background-color: #fff !important;
             }
+
+            #myNavbar {
+                background: #f5b800;
+                display: flex;
+                align-items: center;
+
+            }
+
+            @media (max-width: 769px) {
+                .logo-section img.logo {
+                    width: 148%;
+                }
+            }
             </style>
 
             <div class="navbar-header">
@@ -190,30 +216,21 @@ ol>li {
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                <li class="dropdown <?php echo isActive('profile-message.php'); ?>">
+                    <li class="dropdown <?php echo isActive('profile-message.php'); ?>">
                         <a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown"
                             href="http://www.rajalakshmi.org/#">About </a>
                         <ul class="dropdown-menu">
                             <li><a href="profile-message.php#correspondent">Correspondent's message</a></li>
                             <li><a href="profile-message.php#principal">Principal</a></li>
                             <li><a href="profile-message.php#college">About the college</a></li>
-                            <li><a href="profile-message.php#tab-accreditations">Accreditations</a></li>
-                            <li><a href="profile-message.php#certification">Certifications</a></li>
+                            <li><a href="profile-message.php#tab-accreditations">About the Trust</a></li>
                             <li><a href="profile-message.php#governing">Governing Body</a></li>
                             <li><a href="profile-message.php#academic_council">Academic Council</a></li>
-                            <li><a href="profile-message.php#mou">MOUs</a></li>
-                            <li><a href="profile-message.php#faculty">Eminent Faculty Members</a></li>
-                            <li><a href="profile-message.php#disclosure">Mandatory Disclosures</a></li>
+                            <li><a href="profile-message.php#disclosure">Board of Studies</a></li>
                             <!--
             <li><a href="http://www.rajalakshmi.org/profile-statutory.php">Statutory Bodies and Committees</a></li>
             <li><a href="http://www.rajalakshmi.org/profile-nonstatutory.php">Non Statutory Bodies and Committees</a></li>
             -->
-                            <li><a href="http://www.rajalakshmi.org/policies.php">Policies</a></li>
-                            <li><a href="profile-message.php#committees">Committees</a></li>
-                            <li><a href="https://www.rajalakshmi.org/NAAC/Organogram.pdf" target="_blank">Organogram</a>
-                            </li>
-                            <li><a href="https://www.rajalakshmi.org/downloads/CurrentFacultyList.pdf"
-                                    target="_blank">Current Faculty List</a></li>
                         </ul>
                     </li>
 
@@ -221,221 +238,111 @@ ol>li {
                     <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
                             href="http://www.rajalakshmi.org/#">Department </a>
                         <ul role="menu" class="dropdown-menu">
-                            <li><a href="dept-aero-intro.php">Aeronautical Engineering</a></li>
-                            <!--          <li><a href="http://www.rajalakshmi.org/dept-aiml-intro.php">Artificial Intelligence & Machine Learning</a></li> -->
-                            <li><a href="dept-ame-intro.php">Automobile Engineering</a></li>
-                            <li><a href="dept-bme-intro.php">Biomedical Engineering</a></li>
-                            <li><a href="dept-biotech-intro.php">Biotechnology</a></li>
-                            <li><a href="dept-chemical-intro.php">Chemical Engineering</a></li>
                             <li><a href="dept-civil-intro.php">Civil Engineering</a></li>
 
 
                             <li><a href="dept-cse-intro.php">Computer Science &amp; Engineering</a>
-                                <ul class="customdesign">
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-cse-intro.php">Computer Science &amp; Engineering</a></li>
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-csecs-intro.php">Computer Science &amp; Engineering (Cyber
-                                            Security)</a></li>
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-csbs-intro.php">Computer Science &amp; Business Systems</a></li>
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-csd-intro.php">Computer Science &amp; Design</a></li>
-                                </ul>
+
                             </li>
 
 
                             <li><a href="dept-eee-intro.php">Electrical &amp; Electronics Engineering</a></li>
                             <li><a href="dept-ece-intro.php">Electronics &amp; Communication Engineering</a></li>
-                            <li><a href="dept-ft-intro.php">Food Technology</a></li>
-                            <!--
-          <li><a href="http://www.rajalakshmi.org/dept-it-intro.php">Information Technology</a></li>
--->
-
-                            <li><a href="dept-it-intro.php">Information Technology</a>
-                                <ul class="customdesign">
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-it-intro.php">Information Technology</a></li>
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-aiml-intro.php">Artificial Intelligence & Machine Learning</a>
-                                    </li>
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-aids-intro.php">Artificial Intelligence & Data Science</a></li>
-                                </ul>
-                            </li>
-
-
-
-                            <!-- <li><a href="http://www.rajalakshmi.org/dept-mech-intro.php">Mechanical Engineering</a></li> -->
                             <li><a href="dept-mechanical-intro.php">Mechanical Engineering</a></li>
-
-                            <!--
-          <li><a href="http://www.rajalakshmi.org/dept-mechatronics-intro.php">Mechatronics Engineering</a></li>
--->
-
-                            <li><a href="dept-mechatronics-intro.php">Mechatronics Engineering</a>
-                                <ul class="customdesign">
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-mechatronics-intro.php">Mechatronics Engineering</a></li>
-                                    <li><a style="color: #333 !important; font-weight: lighter !important;"
-                                            href="dept-ra-intro.php">Robotics & Automation</a></li>
-                                </ul>
-                            </li>
-
-                            <!--          <li><a href="http://www.rajalakshmi.org/dept-ra-intro.php">Robotics and Automation</a></li>
--->
                             <li><a href="dept-humanity-sciences-intro.php">Humanities &amp; Sciences</a></li>
                             <li><a href="dept-mba-intro.php">Management Studies</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown main-heading <?php echo isActive('coe.php'); ?>"> <a class="dropdown-toggle" href="coe.php">COE</a></li>
-                    <li class="dropdown <?php echo isActive('academics-regulations.php');?>">                   
-                     <a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Academics</a>
-
-                        <ul class="dropdown-menu">
-                            <li><a href="academics-regulations.php">Regulations</a></li>
-                            <li><a href="academics.php">Curriculum and Syllabus</a></li>
-                            <li><a href="academic-calendar.php">Academic Schedule</a></li>
-                            <li><a href="academic-materials.php">Course Materials</a></li>
-                            <li><a href="academic-handbook.php">Students Handbook</a></li>
-                            <li><a href="academic-gate.php">REC-GATE Training</a></li>
-
-                            <!--
-		 <li><a href="http://www.rajalakshmi.org/academics-coming.php">Rules & Regulations</a></li>
-		  <li><a href="http://www.rajalakshmi.org/academics-coming.php">Grievance Redressal</a></li>
-		   <li><a href="http://www.rajalakshmi.org/academics-coming.php">Anti Ragging</a></li>
-			<li><a href="http://www.rajalakshmi.org/academics-regulations.php">Regulations</a></li>
-			<li><a href="http://www.rajalakshmi.org/academics-coming.php">Innovative Teaching Learning</a></li>
--->
+                            <li><a href="dept-mca-intro.php">MCA (CAD) </a></li>
+                            <li><a href="dept-polytechnic-intro.php">Polytechnic Course</a></li>
 
 
                         </ul>
                     </li>
-                    <li class="dropdown <?php echo isActive('admission-courses.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Admissions</a>
+                    <li class="dropdown <?php echo isActive('admission-courses.php'); ?>">
+                        <a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown"
+                            href="#">Admissions</a>
                         <ul class="dropdown-menu">
-                            <li><a href="admission-courses.php">Programmes Offered</a></li>
-                            <li><a href="admission-eligibility.php">Eligibility</a></li>
-                            <li><a href="admission-engineering-cutoff-anna-university.php">Cutoff Marks</a></li>
-                            <li><a href="admission-application-forms.php">Application Forms</a></li>
+
+                            <li><a href="./downloads/admission/applicationform.pdf" target="_blank">Application
+                                    Forms</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown <?php echo isActive('facilities-admin.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Facilities</a>
+                    <li class="dropdown main-heading <?php echo isActive('coe.php'); ?>"> <a class="dropdown-toggle"
+                            href="coe.php">COE</a></li>
+                    <li class="dropdown <?php echo isActive('library.php'); ?>"> <a class="dropdown-toggle"
+                            href="library.php">Library</a></li>
+                    <li class="dropdown <?php echo isActive('placement.php'); ?>"><a class="dropdown-toggle"
+                            class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown"
+                            href="http://www.rajalakshmi.org/#">Placements</a>
                         <ul class="dropdown-menu">
-                            <li><a href="facilities-admin.php#facilities">Administration Services</a></li>
+                            <li><a href="placement.php#placement-cell">Placement Cell</a></li>
+                            <li><a href="placement.php#placement-training-activities">Placement Training/ Activities</a>
+                            </li>
+                            <li><a href="placement.php#placement-achievements">Placement Achievements</a></li>
+                            <li><a href="placement.php#recruiting-companies">Recruiting Companies</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown <?php echo isActive('research.php'); ?>"><a class="dropdown-toggle"
+                            class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown"
+                            href="http://www.rajalakshmi.org/#">Research</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="research.php#research-centre">Research Centre</a></li>
+                            <li><a href="research.php#research-objectives">Research Objectives</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown <?php echo isActive('iqac-coordinator.php'); ?>"><a class="dropdown-toggle"
+                            class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown"
+                            href="http://www.rajalakshmi.org/#">IQAC</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="iqac-coordinator.php#iqac-intro">Coordinator's Message</a></li>
+                            <li><a href="iqac-members.php#members">Members</a></li>
+                            <li><a href="iqac-members.php#benifits">Benifits</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="dropdown <?php echo isActive('facilities-admin.php'); ?>"><a class="dropdown-toggle"
+                            class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown"
+                            href="http://www.rajalakshmi.org/#">Facilities</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="facilities-admin.php#facilities">Hospital</a></li>
                             <li><a href="facilities-admin.php#library">Library</a></li>
-                            <li><a href="facilities-admin.php#canteen">Canteen</a></li>
+                            <li><a href="facilities-admin.php#canteen">Sports</a></li>
                             <li><a href="facilities-admin.php#hostel">Hostel</a></li>
-                            <li><a href="facilities-admin.php#transport">Transport</a></li>
-                            <li><a href="facilities-admin.php#it-infrastructure">IT Infrastructure</a></li>
-                            <li><a href="facilities-admin.php#health-centre">Health Centre</a></li>
-                            <li><a href="facilities-admin.php#security">Security</a></li>
-                            <li><a href="facilities-admin.php#lecture-capturing-system">Lecture Capturing System</a></li>
-                            <li><a href="facilities-admin.php#green-campus">Green Campus</a></li>
-                            <li><a href="facilities-admin.php#energy-conservation">Energy Conservation</a></li>
-                            <li><a href="facilities-admin.php#water-conservation">Water Conservation</a></li>
-                            <li><a href="facilities-admin.php#infrastructure">Infrastructure</a></li>
-                            <li><a href="facilities-admin.php#maintenance">Maintenance</a></li>
+                            <li><a href="facilities-admin.php#transport">Transportation</a></li>
+                            <li><a href="facilities-admin.php#it-infrastructure">Anti Ragging</a></li>
+
                         </ul>
 
                     </li>
-                    <li class="dropdown <?php echo isActive('studentlife-nss.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Student Life</a>
+
+                    <li class="dropdown <?php echo isActive('icc.php'); ?>"> <a class="dropdown-toggle"
+                            href="icc.php">Institution Videos</a></li>
+                    <li class="dropdown <?php echo isActive('nisp.php'); ?>"> <a class="dropdown-toggle"
+                            href="nisp.php">NIRF</a></li>
+
+                    <li class="dropdown <?php echo isActive('naac.php'); ?>">
+                        <a class="dropdown-toggle" href="naac.php">NAAC</a>
+                    </li>
+
+                    <li class="dropdown <?php echo isActive('feedback.php'); ?>">
+                        <a class="dropdown-toggle" href="#">Feedback Cell</a>
                         <ul class="dropdown-menu">
-                            <li><a href="https://www.rajalakshmi.org/yuva/" target="_blank">YUVA</a></li>
-                            <li><a href="https://www.rajalakshmi.org/ieee/" target="_blank">IEEE</a></li>
-                            <li><a href="studentlife-nss.php">NSS</a></li>
-                            <li><a href="studentlife-technical-society-activities.php">Technical Societies
-                                    Activities</a></li>
-                            <li><a href="http://www.rajalakshmi.org/http://rajalakshmi.org/EDC/index.html"
-                                    target="_blank">Entrepreneurship Development Cell</a></li>
-                            <li><a href="studentlife-physical-eduction.php">Sports</a></li>
-                            <li><a href="studentlife-student-services.php">Student Services</a></li>
-                            <li><a href="studentlife-iiic.php">Industry - Institution Interaction Cell</a></li>
-                            <li><a href="studentlife-prizes.php">Prizes &amp; Awards</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown <?php echo isActive('placement.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Placements</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="placement.php">Placement Cell</a></li>
-                            <li><a href="placement-why-rec.php">Why Rajalakshmi?</a></li>
-                            <li><a href="placement-procedure.php">Procedure</a></li>
-                            <li><a href="placement-programs.php">Training Programs</a></li>
-                            <li><a href="placement-report.php">Placement Report</a></li>
-                            <li><a href="placement-recruiters.php">Recruiters</a></li>
-                            <li><a href="placement-training.php">Employability Training Camp</a></li>
-                            <li><a href="placement-contact.php">Placement Contact</a></li>
-                            <li><a href="placement-downloads.php">Downloads</a></li>
-                            <li><a href="gallery-placement.php">Gallery</a></li>
-                            <li><a href="placement-skillsenhancement.php">Capacity Development and Skills
-                                    Enhancement</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown <?php echo isActive('research.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Research</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="research.php">Research Centre</a></li>
-                            <li><a href="research-facility.php">Research Facilities</a></li>
-                            <li><a href="approved-research-center.php">Recognition & Focus</a></li>
-                            <li><a href="research-iic.php">Industry Institute Collaborations</a></li>
-                            <li><a href="external-research-project.php">Externally Funded Projects</a></li>
-                            <li><a href="internal-research-project.php">Internally Funded Projects</a></li>
-                            <li><a href="doctorates.php">List of Doctorates</a></li>
-                            <li><a href="pursuingphd.php">Faculty pursuing Doctorate</a></li>
-                            <li><a href="research-supervisors.php">Recognized Research Supervisors</a></li>
-                            <!-- <li><a href="http://www.rajalakshmi.org/research-excellence.php">Centres of Excellence</a></li> -->
-                            <li><a href="ce-mv.php">Centres of Excellence</a></li>
-                            <li><a href="research-projects.php">Projects & Patents</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown <?php echo isActive('icc.php'); ?>"> <a class="dropdown-toggle" href="icc.php">IIC</a></li>
-                    <li class="dropdown <?php echo isActive('iiic-1.php'); ?>"> <a class="dropdown-toggle" href="iiic-1.php">IIIC</a></li>
-                    <li class="dropdown <?php echo isActive('alumni-director.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">Alumni</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="alumni-director.php">Director's Message</a></li>
-                            <li><a href="alumni-office.php">Office Bearers</a></li>
-                            <li><a href="alumni-meet.php">Alumni Meet</a></li>
-                            <li><a href="alumni-ftof.php">Face to Face</a></li>
-                            <li><a href="alumni-association.php">Association</a></li>
-                            <li><a href="alumni-events.php">Events</a></li>
-                            <li><a href="http://www.rajalakshmi.org/alumni/">Alumni Directory</a></li>
+                            <li><a href="https://www.aicte-india.org/feedback/faculty.php" target="_blank">AICTE Faculty
+                                    Feedback</a></li>
+                            <li><a href="https://www.aicte-india.org/feedback/students.php" target="_blank">AICTE
+                                    Student Feedback</a></li>
+
                         </ul>
                     </li>
 
-                    <li class="dropdown <?php echo isActive('nisp.php'); ?>"> <a class="dropdown-toggle" href="nisp.php">NISP</a></li>
-
-                    <li class="dropdown <?php echo isActive('international.php'); ?>"><a class="dropdown-toggle" href="international.php">IR</a>
-
-                    <li class="dropdown <?php echo isActive('iqac-coordinator.php'); ?>"><a class="dropdown-toggle" class="dropdown-toggle" data-hover="dropdown"
-                            data-toggle="dropdown" href="http://www.rajalakshmi.org/#">IQAC</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="iqac-coordinator.php">Coordinator's Message</a></li>
-                            <li><a href="iqac-members.php">Members</a></li>
-                            <li><a href="iqac-meeting-minutes.php">Minutes</a></li>
-                            <li><a href="profile-accreditations.php">Accreditation</a></li>
-                            <li><a href="iqac-aqar.php">AQAR</a></li>
-                            <li><a href="iqac-audstmt.php">Audited Stmt</a></li>
-                            <!--
-        <li><a href="http://www.rajalakshmi.org/iqac-facultypub.php">Faculty Publications</a></li>
-        <li><a href="http://www.rajalakshmi.org/iqac-facultyprog.php">Faculty Program</a></li>
-        <li><a href="http://www.rajalakshmi.org/iqac-curriculum.php">Curriculum</a></li>
--->
-                            <li><a href="https://www.rajalakshmi.org/downloads/REC-IQACPolicy.pdf" target="_blank">IQAC
-                                    Policy</a></li>
-                            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdBmegMJSDLzocgJEd_6f0nnMt5u8TGijZnwWU6MG9QTbTJyw/viewform"
-                                    target="_blank">Student Survey</a></li>
-                        </ul>
+                    <li class="dropdown <?php echo isActive(''); ?>">
+                        <a class="dropdown-toggle"
+                            href="https://docs.google.com/forms/d/e/1FAIpQLSfu-KANyMVzrVmKP2x9uHH4vlpB2WOsvSXc1umO3Yd0i06N-A/viewform"
+                            target="_blank">Grevience Cell</a>
                     </li>
 
-                    </li>
 
-                    <li class="dropdown <?php echo isActive('dvv_clarifications.php'); ?>">
-                        <a class="dropdown-toggle" href="dvv_clarifications.php">NAAC</a>
-                    </li>
                 </ul>
             </div>
         </nav>

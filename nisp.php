@@ -3,24 +3,25 @@
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>National Innovation and Startup Policy | Rajalakshmi Engineering College (REC)</title>
+<title>National Innovation and Startup Policy | Chadalawada Ramanamma Engineering College, Tirupathi</title>
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://www.rajalakshmi.org/js/bootstrap.min.js" async="async"></script>
+<script src="./js/bootstrap.min.js" async="async"></script>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/style.css"/>
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/index.css"/>
+<link rel="stylesheet" href="./css/style.css"/>
+<link rel="stylesheet" href="./css/index.css"/>
+<link rel="stylesheet" href="./css/pdfcard.css">
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-<meta itemprop="name" content="Rajalakshmi Engineering College (REC), Chennai"/>
-<meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
-<meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
+<meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai"/>
+<meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
+<meta name="keywords" content="College in chennai, Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
 <meta name="robots" content="index,follow">
-<link rel="shortcut icon" href="https://www.rajalakshmi.org/image/favicon.png" >
-<meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
+<link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
+<meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai">
 <meta property="og:type" content="content">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
 <meta property="og:image:type" content="image/jpeg">
@@ -128,163 +129,78 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="profile-page">
   <div class="container">
-    <div class="breadcrumb profile-tab">National Innovation and Startup Policy</div>
-    <div class="col-md-9 page rightcontent">
+    <div class="breadcrumb profile-tab">NIRF</div>
+    
       <div id="maintenance" class="main-content" style="display: block;">
       <div class="clearfix"></div>
-    <h2 class="page-title">NISP</h2>
+    <h2 class="page-title">National Institutional Ranking Framework</h2>
       <p>
-The National Innovation and Startup Policy for students and faculty of Higher Education Institutions (HEIs) will enable the institutes to actively engage students, faculties and staff in innovation and entrepreneurship related activities. This framework will also facilitate Ministry of Human Resource Development in bringing uniformity across HEIs in terms of Intellectual Property ownership management, technology licensing and institutional Startup policy, thus enabling creation of a robust innovation and Start up ecosystem across all HEIs.<br>
-</p> 
-<br>
-
-<h2 style="text-align: center;"><a href="https://www.rajalakshmi.org/downloads/nisp/rec-nisp-policy.pdf" target="_blank">CLICK HERE TO VIEW/DOWNLOAD <br>National Innovation and Startup Policy 2019</a></h2>                          
-<br>
-<h2 style="text-align: center;"><a href="https://www.rajalakshmi.org/downloads/nisp/rec-nisp-rec-policy.pdf" target="_blank">CLICK HERE TO VIEW/DOWNLOAD <br>REC NISP Policy 2022</a></h2>                          
- 
       </p>
-</div>
-
-<div id="policy" class="main-content" style="display: none;">
-<div class="clearfix"></div>
-    <h2 class="page-title">NISP</h2>
-      <p>
-The National Innovation and Startup Policy for students and faculty of Higher Education Institutions (HEIs) will enable the institutes to actively engage students, faculties and staff in innovation and entrepreneurship related activities. This framework will also facilitate Ministry of Human Resource Development in bringing uniformity across HEIs in terms of Intellectual Property ownership management, technology licensing and institutional Startup policy, thus enabling creation of a robust innovation and Start up ecosystem across all HEIs.<br>
-</p> 
-<br>
-
-<h2 style="text-align: center;"><a href="https://www.rajalakshmi.org/downloads/nisp/rec-nisp-policy.pdf" target="_blank">CLICK HERE TO VIEW/DOWNLOAD <br>National Innovation and Startup Policy 2019</a></h2>                          
-<br>
- 
-      </p>
-</div>
-
-<div id="coreteam" class="main-content" style="display: none;">
-<div class="clearfix"></div>
-    <h2 class="page-title">NISP</h2>
-      <p>
-National Innovation and Start up Policy-2019 for faculty and Students of Higher Education Institutions is initiated by MHRD’s Innovation Cell and AICTE. REC adopted the NISP of AICTE AND MHRD to encourage students as well research oriented faculty towards Innovation and Entrepreneurship related activities.<br>
-To promote innovation and start-up culture amongst the students and faculty of Higher Education Institutes, the following core team is formed.<br>
-
-<h3>Chairperson</h3>
-Dr. (Mrs.) Thangam Meganathan<br><br>
-<h3>Vice Chairman</h3>
-Mr. M. Abhay Shankar<br><br>
-<h3>Principal</h3>
-Dr. S. N. Murugesan<br><br>
-<h3>Advisory Committee</h3>
-<strong>Coordinator</strong><br>
-Dr. A. Selvaraj/EEE<br><br>
-<strong>Members</strong><br>
-Dr. S.P. Srinivasan, Professor, Mechanical Engineering<br>
-Dr. Natteri M. Sudharsan, Professor, Mechanical Engineering<br>
-Dr. P. Kumar, Head, ED Cell<br>
-Dr. C.B.Ragothaman, Professor, Management Studies<br>
-Dr. Johanna Rajkumar, Professor, Biotechnology<br>
-Dr. V. Gayathri, Associate Professor, Biotechnology<br>
-</p> 
-</div>
-
-<div id="wings" class="main-content" style="display: none;">
-<div class="clearfix"></div>
-    <h2 class="page-title">NISP</h2>
-<p>
-
-<h3>NISP-EDC(Entrepreneurship Development Cell)</h3>
-Coordinator<br>
-Dr. P. Kumar,<br>
-Professor, CSE & Head, ED Cell<br><br>
-<h3>NISP-IPC (Innovative Project Cell)</h3>
-Coordinator<br>
-Dr. Johanna Rajkumar, Professor, Biotechnology<br><br>
-<h3>NISP-PATENT CELL</h3>
-Coordinator<br>
-Dr. V. Gayathri, Associate Professor, Biotechnology<br><br>
-</p> 
-<br>
-</div>
-
-<div id="schedule" class="main-content" style="display: none;">
-<div class="clearfix"></div>
-    <h2 class="page-title">NISP Tentative Schedule</h2>
-
-<table class="table">
-<tr><th width="50">S.No.</th><th>Plan</th><th>Tentative Date</th></tr>
-
-<tr>
-<td>01</td>
-<td>Orientation and Adoption of NISP to all Students and Faculty</td>
-<td>March 2nd Week</td>
-</tr>
-
-<td>02</td>
-<td>How to be a successful entrepreneur - by successful alumni</td>
-<td>March 3rd Week</td>
-</tr>
-
-<td>03</td>
-<td>Awareness on Incubation, Its importance and assessmebt by Incubation Expert</td>
-<td>March 3rd Week</td>
-</tr>
-
-<td>04</td>
-<td>Collaboration, Co-creation, Business Relationship, Development and Knowledge Exchange within campus by MSME Expert</td>
-<td>March 3rd Week</td>
-</tr>
-
-<td>05</td>
-<td>Awareness on Intellectual Property rights, Usage of IP Ownership rights for technology development in association with Patent Cell</td>
-<td>April 1st Week</td>
-</tr>
-
-<td>06</td>
-<td>Pedagogy and Learning interventions for Innovation and Entrepreneurship development by Core team and Innovation ambassadors</td>
-<td>April 2nd Week</td>
-</tr>
-
-<td>07</td>
-<td>Success stories of Entrepreneurs by successful entrepreneurs</td>
-<td>April 3rd Week</td>
-</tr>
-
-<td>08</td>
-<td>Startup registration process</td>
-<td>April 4th Week</td>
-</tr>
-
-<td>09</td>
-<td>Follow-up</td>
-<td>May 1st week</td>
-</tr>
-
-</table>
-
-</div>
-
+      <div class="pdf-card">
+        <div class="card-header" onclick="togglePDF('pdf1')">
+            <h3>CREC NIRF Engineering.pdf </h3>
+            <span class="toggle-icon">&#x25BC;</span>
+        </div>
+        <div id="pdf1" class="pdf-body">
+            <embed src="./downloads/nirf/CREC NIRF Engineering.pdf" type="application/pdf">
+        </div>
     </div>
-      
-    <div class="col-md-3 left-bar leftsidebar">
-   <ul class="dept-bar">
-  <li class="left-bar-title">NISP</li>
-  <ul id="dept-bar-2" class="dept-bar">
-    <li id="tab-policy" class="active">
-        <a href="#" onclick="switchTab(event, 'policy')">Policy</a>
-    </li>
-    <li id="tab-coreteam" class="">
-        <a href="#" onclick="switchTab(event, 'coreteam')">Core Team</a>
-    </li>
-    <li id="tab-wings" class="">
-        <a href="#" onclick="switchTab(event, 'wings')">WINGS</a>
-    </li>
-    <li id="tab-schedule" class="">
-        <a href="#" onclick="switchTab(event, 'schedule')">Schedule</a>
-    </li>
-</ul>
-
-</ul>
-    <div class="clearfix"></div>
+    <div class="pdf-card">
+        <div class="card-header" onclick="togglePDF('pdf2')">
+            <h3>CREC NIRF Engineering 2022-232</h3>
+            <span class="toggle-icon">&#x25BC;</span>
+        </div>
+        <div id="pdf2" class="pdf-body">
+            <embed src="./downloads/nirf/Chadalawada-Ramanamma-Engineering-College-Engineering.pdf" type="application/pdf">
+        </div>
     </div>
-  </div>
+    <div class="pdf-card">
+        <div class="card-header" onclick="togglePDF('pdf3')">
+            <h3>CREC NIRF Management 2022-23</h3>
+            <span class="toggle-icon">&#x25BC;</span>
+        </div>
+        <div id="pdf3" class="pdf-body">
+            <embed src="./downloads/nirf/Chadalawada-Ramanamma-Engineering-College-MBA-1.pdf" type="application/pdf">
+        </div>
+    </div>
+    <div class="pdf-card">
+        <div class="card-header" onclick="togglePDF('pdf4')">
+            <h3>AICTE Approval 2022-23</h3>
+            <span class="toggle-icon">&#x25BC;</span>
+        </div>
+        <div id="pdf4" class="pdf-body">
+            <embed src="./downloads/nirf/2022-23-AICTE-1.pdf" type="application/pdf">
+        </div>
+    </div>
+    <div class="pdf-card">
+        <div class="card-header" onclick="togglePDF('pdf5')">
+            <h3>AICTE Approval 2023-24</h3>
+            <span class="toggle-icon">&#x25BC;</span>
+        </div>
+        <div id="pdf5" class="pdf-body">
+            <embed src="./downloads/nirf/2023-24-AICTE-1.pdf" type="application/pdf">
+        </div>
+    </div>
+</div>
+
+<script>
+    function togglePDF(pdfId) {
+    var pdfContent = document.getElementById(pdfId);
+    var cardHeader = pdfContent.previousElementSibling;
+    if (pdfContent.style.display === 'block') {
+        pdfContent.style.display = 'none';
+        cardHeader.classList.remove('collapsed');
+    } else {
+        pdfContent.style.display = 'block';
+        cardHeader.classList.add('collapsed');
+    }
+}
+
+</script>
+
+
+
+
 </div>
 <!-- code page end -->
 <script>

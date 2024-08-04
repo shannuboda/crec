@@ -3,7 +3,7 @@
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>National Institutional Ranking Framework | Rajalakshmi Engineering College (REC)</title>
+<title>National Institutional Ranking Framework | Chadalawada Ramanamma Engineering College, Tirupathi</title>
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
 <link rel="stylesheet" href="https://www.rajalakshmi.org/css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -15,12 +15,12 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-<meta itemprop="name" content="Rajalakshmi Engineering College (REC), Chennai"/>
-<meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
-<meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
+<meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai"/>
+<meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
+<meta name="keywords" content="College in chennai, Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
 <meta name="robots" content="index,follow">
-<link rel="shortcut icon" href="https://www.rajalakshmi.org/image/favicon.png" >
-<meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
+<link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
+<meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai">
 <meta property="og:type" content="content">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
 <meta property="og:image:type" content="image/jpeg">
