@@ -231,29 +231,29 @@ held on February 10, 2018</a><br />
         <div class="section-header">Events</div>
         <div class="event">
 			<div class="event-box">
-                <div class="col-md-3 event-image"><img src="image/events/CreditCourseonCyberSecuritybyTCS.jpeg" /> </div>
+                <div class="col-md-3 event-image"><img src="image/crec-files/b1.jpg" /> </div>
                 <div class="col-md-9 "><strong>Credit Course on Cyber Security by TCS</strong>
                     <p>23.02.2022 to 07.03.2022 | REC</p>
-                    <a href="CreditCourseonCyberSecuritybyTCS.php" class="view-more">View Details</a>
+                    <a href="#" class="view-more">View Details</a>
                 </div>
             </div>
 		   <div class="event-box">
-                <div class="col-md-3 event-image"><img src="image/events/rec-20th-graduation-day--10-07-2021.jpg" /> </div>
+                <div class="col-md-3 event-image"><img src="image/crec-files/b3.jpg" /> </div>
                 <div class="col-md-9 "><strong>REC 20th Graduation Day</strong>
                     <p>20th Graduation Day (Virtual Mode) was celebrated on 10.07.2021</p>
-                    <a href="rec-20th-graduation-day--10-07-2021.php" class="view-more">View Details</a>
+                    <a href="#" class="view-more">View Details</a>
                 </div>
             </div>
             <div class="clearfix"></div>
             <br>
             <div class="event-box">
-                <div class="col-md-3 event-image"><img src="image/events/graduation-day-2020-14-03-2020.jpg" /></div>
+                <div class="col-md-3 event-image"><img src="image/crec-files/slider/h1.png" /></div>
                 <div class="col-md-9"><strong>Graduation Day 2020</strong>
                     <p>19th Graduation Day was held on 14.03.2020. CHIEF GUEST Thiru. Banwarilal Purohit, Hon'ble Governor of Tamilnadu delivered the graduation day address, awarded medals and certificates to the rank holders</p>
-                    <a href="graduation-day-2020-14-03-2020.php" class="view-more">View Details</a>
+                    <a href="#" class="view-more">View Details</a>
                 </div>
             </div>
-            <div style="display:block; float:right;"> <a href="events.php" class="view-more-1">more events..</a> </div>
+            <div style="display:block; float:right;"> <a href="#" class="view-more-1">more events..</a> </div>
         </div>
     </div>
     <div class="mobile-padder"></div>
