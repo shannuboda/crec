@@ -21,16 +21,16 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-<meta itemprop="name" content="Rajalakshmi Engineering College (REC), Chennai"/>
-<meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
-<meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
+<meta itemprop="name" content="Chadalawada Ramanamma College of Engineering"/>
+<meta name="Description" content="Chadalawada Ramanamma College of Engineering" />
+<meta name="keywords" content="College in chennai, Engineering College in TamilnaduChadalawada Ramanamma College of Engineering" />
 <meta name="robots" content="index,follow">
 <link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
-<meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
+<meta property="og:title" content="Chadalawada Ramanamma College of Engineering">
 <meta property="og:type" content="Rajalakshmi Engineering College(REC) , is a private engineering college located at Thandalam, Sriperumbudur near Chennai, Tamil Nadu, India.">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
 <meta property="og:image:type" content="image/jpeg">
-<meta property="og:url" content="https://rajalakshmi.org">
+<meta property="og:url" content="">
 <meta property="og:site_name" content="Rajalakshmi Engineering College Chennai, Engineering Admission 2017">
 <meta property="og:description" content="Rajalakshmi Engineering College, approved by AICTE, New Delhi, established in the year 1997 currently offers 14 UG and 9 PG courses and also offers 9 Research programmes (Ph.D./M.S.). ">
 <meta name="google-site-verification" content="mD0Van-bkokkLfAG2HLtIh2uQNt2utECAXBoAxQOWXw" />
@@ -406,7 +406,7 @@ held on February 10, 2018</a><br />
     <div class="modal-body"> <img src="rec20.jpg" /> </div>
   </div>
 </div>-->
-<div class="float-right  ">Admissions Open: <a href="https://www.rajalakshmi.org/2024/organic" target="_blank">UG</a> | <a href="http://www.rajalakshmi.org/pg-admissions-2023/" target="_blank">PG</a></div>
+<div class="float-right  ">Admissions Open: <a href="#" target="_blank">UG</a> | <a href="#" target="_blank">PG</a></div>
 
 <?php include("./includes/footer.php"); ?>
 </body>

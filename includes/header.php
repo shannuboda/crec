@@ -42,7 +42,16 @@ function isActive($pageName) {
 .float-right-2 a {
     padding: 5px 0px;
 }
-
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    font-weight: bolder;
+    white-space: nowrap;
+}
 @media (min-width: 770px) {
     .banner-8 {
         background: url(../image/banner-9.jpg) no-repeat;
@@ -58,10 +67,11 @@ function isActive($pageName) {
         padding: 20px;
     }
 
+    
     .drop-sub {
         display: none;
+        /* padding: 5px; */
     }
-
     .drop-top:hover .drop-sub {
         display: inline-block !important;
         position: absolute;
@@ -125,8 +135,21 @@ ol>li {
         width: -webkit-fill-available!important;
     }
 }
-
-
+.head-logos{display:flex}
+.head-logos .mainlogos{display:flex;margin-left:12rem;justify-content:space-around}
+@media screen and (min-width:320px) and (max-width:780px) {
+    .head-logos .mainlogos{display: none !important;}
+}
+@media (min-width: 992px) {
+    .head-logos {
+        width: 70%;
+    }
+}
+@media (min-width: 979px) {
+    .logo-section img.logo {
+        width: 143%;
+    }
+}
 </style>
 
 <div class="container-fluid topbar">
@@ -134,10 +157,37 @@ ol>li {
 </div>
 <div class="container main-top-header">
     <div class="col-md-12 col-xs-9 logo-section">
-        <div class="col-md-3 col-xs-9" style="z-index:9;">
+        <div class="col-md-3 col-xs-9 head-logos" style="z-index:9;">
             <a href="index.php">
                 <img src="./image/CREC-Logo2.jpg" alt="Chadalawada Ramanamma Engineering College, Tirupathi" class="logo" title="" />
             </a>
+            <div class="mainlogos">
+            <a href="index.php">
+                <img src="./image/crec-files/logos/All_India_Council_for_Technical_Education_logo-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" title="" style="width: 66%"/>
+            </a>
+            <a href="index.php">
+                <img src="./image/crec-files/logos/aut-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" title="" style="width: 86%"/>
+            </a>
+            <a href="index.php">
+                <img src="./image/crec-files/logos/NAAC-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" title="" style="width: 86%"/>
+            </a>
+            <a href="index.php">
+                <img src="./image/crec-files/logos/NBA-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" title="" style="width: 86%"/>
+            </a>
+            </div>
+           
+            <!-- <a href="index.php">
+                <img src="./image/crec-files/logos/aut-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" class="logo" title="" />
+            </a>
+            <a href="index.php">
+                <img src="./image/crec-files/logos/NAAC-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" class="logo" title="" />
+            </a>
+            <a href="index.php">
+                <img src="./image/crec-files/logos/NBA-removebg-preview.png" alt="Chadalawada Ramanamma Engineering College, Tirupathi" class="logo" title="" />
+            </a> -->
+         
+
+
 
         </div>
 
@@ -146,24 +196,24 @@ ol>li {
                 <li style="padding-left:15px;"></li>
                 <li class="drop-top"><a href="#" target="_blank">Admissions</a>
                     <ul class="drop-sub">
-                        <li><a href="https://www.rajalakshmi.org/2024/organic" target="_blank">UG Admissions</a></li>
-                        <li><a href="https://www.rajalakshmi.org/pg-admissions-2023/" target="_blank">PG Admissions</a>
+                        <li><a href="#" target="_blank">UG Admissions</a></li>
+                        <li><a href="#" target="_blank">PG Admissions</a>
                         </li>
                     </ul></a>
                 </li> | <li class="drop-top"><a href="#" target="_blank">Fee Link</a>
                     <ul class="drop-sub">
-                        <li><a href="https://www.rajalakshmi.org/onlinefeepayment.php" target="_blank">College Fee</a>
+                        <li><a href="#" target="_blank">College Fee</a>
                         </li>
-                        <li><a href="https://eazypay.icicibank.com/eazypayLink?P1=ZNP2cDbiITjEN7JeCPQX2Q=="
+                        <li><a href="#"
                                 target="_blank">Exam Fee</a></li>
                     </ul></a>
                 </li> | <li><a href="contact-us.php">Contact Us</a></li> | <li><a
-                        href="https://www.rajalakshmi.org/downloads/TNCOGN13234-RajalakshmiEngineeringCollege-AQAR-17-18.pdf"
-                        target="_blank">AQAR</a></li>
+                        href="naac.php#aqar-criteria"
+                       >AQAR</a></li>
             </ul>
         </span>
     </div>
-    <div class="col-md-12" style="border-top:1px solid #CCCCCC;"></div>
+   
     <!--<li><a href="downloads/NIRF_2021_WEBSITE_UPLOAD_REC.pdf" target="_blank">NIRF</a> | -->
     <!--
 <li><a href="https://online.anyflip.com/swuz/fbxy" target="_blank">Revista'19</a></li></ul>
@@ -223,7 +273,7 @@ ol>li {
                             <li><a href="profile-message.php#correspondent">Correspondent's message</a></li>
                             <li><a href="profile-message.php#principal">Principal</a></li>
                             <li><a href="profile-message.php#college">About the college</a></li>
-                            <li><a href="profile-message.php#tab-accreditations">About the Trust</a></li>
+                            <li><a href="profile-message.php#about-trust">About the Trust</a></li>
                             <li><a href="profile-message.php#governing">Governing Body</a></li>
                             <li><a href="profile-message.php#academic_council">Academic Council</a></li>
                             <li><a href="profile-message.php#disclosure">Board of Studies</a></li>
@@ -310,7 +360,7 @@ ol>li {
                             <li><a href="facilities-admin.php#canteen">Sports</a></li>
                             <li><a href="facilities-admin.php#hostel">Hostel</a></li>
                             <li><a href="facilities-admin.php#transport">Transportation</a></li>
-                            <li><a href="facilities-admin.php#it-infrastructure">Anti Ragging</a></li>
+                            <li><a href="facilities-admin.php#arg">Anti Ragging</a></li>
 
                         </ul>
 

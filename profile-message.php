@@ -17,18 +17,16 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <![endif]-->
-    <meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
-    <meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
-    <meta name="keywords"
-        content="College in chennai, Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Tirupathi, Chennai" />
-    <meta name="robots" content="index,follow">
+    <meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi, " />
+    <meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi, " />
+   
     <link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
-    <meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi, Chennai">
+    <meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi, ">
     <meta property="og:type" content="content">
     <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:url" content="https://rajalakshmi.org">
-    <meta property="og:site_name" content="Rajalakshmi Engineering College Chennai, Engineering Admission 2017">
+    <meta property="og:site_name" content="Rajalakshmi Engineering College , Engineering Admission 2017">
     <meta property="og:description"
         content="Rajalakshmi Engineering College, approved by AICTE, New Delhi, established in the year 1997 currently offers 14 UG and 9 PG courses and also offers 9 Research programmes (Ph.D./M.S.). ">
     <meta name="google-site-verification" content="mD0Van-bkokkLfAG2HLtIh2uQNt2utECAXBoAxQOWXw" />
@@ -55,7 +53,21 @@
     .float-right-2 a {
         padding: 5px 0px;
     }
-
+@media(min-width:320px) and ( max-width:720px){
+    .impersons {
+    width: 100%;
+    height: 34rem;
+    border-radius: 6px;
+    /* margin: 10px 0px; */
+    margin-right: auto;
+    /* margin-left: auto; */
+    display: flex;
+    flex-direction: row;
+}
+.impersons:nth-child(1) img {
+    width: 26rem;
+}
+}
     @media (min-width: 770px) {
         .banner-8 {
             background: url(../image/banner-9.jpg) no-repeat;
@@ -127,8 +139,8 @@
             <div class="breadcrumb" id="profile-tab">Profile > Chairman's Message</div>
             <div class="col-md-9 page rightcontent">
                 <div id="correspondent" class="main-content">
-                    <div class="page-img"><img src="./image/crec-files/chairman/CREC-Chairman-397x500.jpg"
-                            alt="Correspondent Message" style="float:center; height: 51rem" /></div>
+                    <div class="impersons"><img src="./image/crec-files/chairman/CREC-Chairman-397x500.jpg"
+                            alt="Correspondent Message" /></div>
                     <h2>Dr. CHADALAWADA KRISHNA MURTHY <br>
                         CHAIRMAN</h2>
                     <p>
@@ -145,8 +157,8 @@
                 </div>
                 <div id="principal" class="main-content" style="display: none;">
                     <!-- Replace with Principal content -->
-                    <div class="page-img"><img src="./image/crec-files/principal/photo.png" alt="Principal"
-                            style="float:center; height: 51rem" />
+                    <div class="impersons"><img src="./image/crec-files/principal/photo.png" alt="Principal"
+                            />
                     </div>
                     <h2>
                         Dr. P. Ramesh Kumar <br>
@@ -222,15 +234,15 @@
                         Hills. The town is famous for footfall of 50,000 pilgrims from around the country as well as the
                         world. Home to centuries old temples whose architectural splendours have an aura of themselves
                         apart from the aura of their presiding duties.Tirupati is well connected by Road-ways,
-                        Rail-ways, Air-ways from Bengalur, Chennai, Amaravathi, Vijayawada and other cities.
+                        Rail-ways, Air-ways from Bengalur, , Amaravathi, Vijayawada and other cities.
 
                     </p>
                     <!--
-        <p>Rajalakshmi Engineering College, an autonomous institution affiliated to Anna University, Chennai, was established in the year 1997 under the aegis of Rajalakshmi Educational Trust whose members have had consummate experience in the fields of education and industry. The College has grown from strength to strength in the last 20 years and progressing towards Excellence in Engineering Education, Research and Development.<br><br />
+        <p>Rajalakshmi Engineering College, an autonomous institution affiliated to Anna University, , was established in the year 1997 under the aegis of Rajalakshmi Educational Trust whose members have had consummate experience in the fields of education and industry. The College has grown from strength to strength in the last 20 years and progressing towards Excellence in Engineering Education, Research and Development.<br><br />
 
 Started with 3 Under Graduate programmes in Engineering with an annual intake of 180 students in 1997, the College presently offers 12 Under Graduate and 10 Post Graduate programmes, with an annual intake of 1950 students. The approval of AICTE and affiliation of the Anna University for such a progressive intake is a standing testimony for the continuous growth of the college over the years. 9 of our Departments are recognized as Research Centers of Anna University to conduct Ph.D. and M.S. (By Research) programmes and many scholars have obtained Ph.D. through these research centres.<br><br />
 
-Ours is one among the few Colleges to receive accreditation for nine Under Graduate Engineering programmes from the National Board of Accreditation (NBA), New Delhi, as soon as attaining the eligibility to apply for accreditation. The College is accredited by the National Assessment and Accreditation Council (NAAC) with 'A++' Grade. The college has also secured 12(b) status from UGC. Anna University, Chennai has granted Permanent Affiliation for Eight programmes, viz., B.E. Aeronautical Engineering, B.E. Computer Science and Engineering, B.E. Electronics and Communication Engineering, B.E. Electrical and Electronics Engineering, B.E. Mechanical Engineering, B.Tech. Biotechnology, B.Tech. Information Technology and M.B.A. The Department of Scientific and Industrial Research (DSIR), Government of India has recognized the College as a Scientific and Industrial Research Organization (SIRO), considering its potential for Research and Development activities.<br>
+Ours is one among the few Colleges to receive accreditation for nine Under Graduate Engineering programmes from the National Board of Accreditation (NBA), New Delhi, as soon as attaining the eligibility to apply for accreditation. The College is accredited by the National Assessment and Accreditation Council (NAAC) with 'A++' Grade. The college has also secured 12(b) status from UGC. Anna University,  has granted Permanent Affiliation for Eight programmes, viz., B.E. Aeronautical Engineering, B.E. Computer Science and Engineering, B.E. Electronics and Communication Engineering, B.E. Electrical and Electronics Engineering, B.E. Mechanical Engineering, B.Tech. Biotechnology, B.Tech. Information Technology and M.B.A. The Department of Scientific and Industrial Research (DSIR), Government of India has recognized the College as a Scientific and Industrial Research Organization (SIRO), considering its potential for Research and Development activities.<br>
           <br />
 -->
                     <strong>Vision</strong><br />
@@ -277,7 +289,7 @@ Ours is one among the few Colleges to receive accreditation for nine Under Gradu
                     </ul>
                 </div>
 
-                <div id="accreditations" class="main-content" style="display: none;">
+                <div id="about-trust" class="main-content" style="display: none;">
                     <!-- Replace with Accreditations content -->
                     <h1 class="page-title">About the Trust</h1>
 
@@ -465,7 +477,7 @@ Ours is one among the few Colleges to receive accreditation for nine Under Gradu
                         <tr>
                             <td>Dr.N.Ramesh Babu</td>
                             <td>Professor , Department of Mechanical Engineering, INDIAN INSTITUTE OF TECHNOLOGY-
-                                Chennai.</td>
+                                .</td>
                             <td>Member</td>
                         </tr>
                         <tr>
@@ -544,7 +556,7 @@ Page updated on 01.09.2019</p>
                         <li id="tab-principal"><a href="#principal" onclick="switchTab(event, 'principal')">Principal</a></li>
                         <li id="tab-college"><a href="#college" onclick="switchTab(event, 'college')">About the college</a>
                         </li>
-                        <li id="tab-accreditations"><a href="#accreditations" onclick="switchTab(event, 'accreditations')">About the
+                        <li id="tab-about-trust"><a href="#about-trust" onclick="switchTab(event, 'about-trust')">About the
                                 Trust</a></li>
                         <!-- <li id="tab-certification"><a href="#"
                                 onclick="switchTab(event, 'certification')">Certifications</a></li> -->

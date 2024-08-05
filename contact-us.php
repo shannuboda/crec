@@ -5,28 +5,24 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>CONTACT US | Chadalawada Ramanamma Engineering College, Tirupathi</title>
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://www.rajalakshmi.org/js/bootstrap.min.js" async="async"></script>
+<script src="./js/bootstrap.min.js" async="async"></script>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/style.css"/>
-<link rel="stylesheet" href="https://www.rajalakshmi.org/css/index.css"/>
+<link rel="stylesheet" href="./css/style.css"/>
+<link rel="stylesheet" href="./css/index.css"/>
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-<meta itemprop="name" content="Rajalakshmi Engineering College (REC), Chennai"/>
-<meta name="Description" content="Rajalakshmi Engineering College (REC), Chennai" />
-<meta name="keywords" content="College in chennai, Engineering College in TamilnaduRajalakshmi Engineering College (REC), Chennai" />
+<meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupathi"/>
+<meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupathi" />
 <meta name="robots" content="index,follow">
 <link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
-<meta property="og:title" content="Rajalakshmi Engineering College (REC), Chennai">
+<meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupathi">
 <meta property="og:type" content="content">
 <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
 <meta property="og:image:type" content="image/jpeg">
-<meta property="og:url" content="https://rajalakshmi.org">
-<meta property="og:site_name" content="Rajalakshmi Engineering College Chennai, Engineering Admission 2017">
-<meta property="og:description" content="Rajalakshmi Engineering College, approved by AICTE, New Delhi, established in the year 1997 currently offers 14 UG and 9 PG courses and also offers 9 Research programmes (Ph.D./M.S.). ">
 <meta name="google-site-verification" content="mD0Van-bkokkLfAG2HLtIh2uQNt2utECAXBoAxQOWXw" />
 <meta name="facebook-domain-verification" content="trlupjxgtzur1yiahpwufmcaju7bv7" />
 <meta property="og:locale" content="en_US">
@@ -126,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- code page -->
 <div class="contact-page">
-  <div class="page-img" style="background:url(image/contact-banner.jpg) no-repeat center; background-size:cover;">
+  <div class="page-img" style="background:url(https://media.licdn.com/dms/image/C561BAQHFa05Tiq9jRA/company-background_10000/0/1593851889496/crectirupati_cover?e=2147483647&v=beta&t=UCrI5QAJ6g2gGvtjg8v7dD5ELzF7_wHTsb0UVIY23cM) no-repeat center; background-size:cover;">
     <div class="overlay-purple">
       <div style="padding:100px 0 0 0; text-align:center;">
         <h1 class="image-title">Contact Us</h1>
@@ -137,54 +133,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
   <div class="container">
+  <!-- <div style="overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="embedded-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=chadalawada+ramanamma+college&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="googlemaps-made" rel="nofollow" href="https://www.bootstrapskins.com/themes" id="make-map-data">premium bootstrap themes</a><style>#embedded-map-display img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div> -->
+  
     <br />
-    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Rajalakshmi+Engineering+College,+Tamil+Nadu&amp;aq=0&amp;oq=rajalakshmi+engineering+college&amp;sll=18.646245,82.792969&amp;sspn=49.285353,56.513672&amp;ie=UTF8&amp;hq=Rajalakshmi+Engineering+College,+Tamil+Nadu&amp;ll=13.008326,80.003423&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
+    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=chadalawada+ramanamma+college&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
     <br />
-    <small><a href="https://maps.google.co.in/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Rajalakshmi+Engineering+College,+Tamil+Nadu&amp;aq=0&amp;oq=rajalakshmi+engineering+college&amp;sll=18.646245,82.792969&amp;sspn=49.285353,56.513672&amp;ie=UTF8&amp;hq=Rajalakshmi+Engineering+College,+Tamil+Nadu&amp;ll=13.008326,80.003423&amp;spn=0.006295,0.006295&amp;t=m" style="color:#0000FF;text-align:left">View Larger Map</a></small> <br />
-    <div class="col-md-12">
-    <p>To apply for jobs, please mail your resume to <strong>hr@rajalakshmi.edu.in</strong><br>
-      For marksheets / gradesheets / exam related queries, please mail to <strong>coe@rajalakshmi.edu.in</strong><br>
-      For placements, please mail to <strong>placement@rajalakshmi.edu.in</strong><br>
-      To conduct training programmes, please mail your proposals to <strong>training@rajalakshmi.edu.in</strong><br>
-      For student verification, please mail to <strong>placement@rajalakshmi.edu.in</strong><br>
-      For any other information, please mail to <strong>admin@rajalakshmi.edu.in</strong></p></div>
-    <div class="col-md-6"><strong class="strong-title">Administrative Office :</strong> # 69 New Avadi Road,<br />
-      Kilpauk, Chennai - 600 010.<br />
-      Phone : +91-44-26442472 / 26461316 / 26460124<br />
-      Fax : +91-44-26445151<br />
-      e-mail : cityoffice@rajalakshmi.edu.in<br />
-      Website : www.rajalakshmi.org<br />
-      <br />
+    <small><a href="https://www.google.com/maps?ll=13.631087,79.477198&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=16507380878548398794" style="color:#0000FF;text-align:left">View Larger Map</a></small> <br />
+  
+    <div class="col-md-6"><strong class="strong-title">Administrative Office :</strong> <br />
+    Chadalawada Ramanamma Engineering College (CREC), <br>
+Chadalawada Nagar, Tirupati. <br>
+Phone :9160451118, 7207941252
+      <br /> <br />
       <strong class="strong-title">College :<br />
-      </strong># Rajalakshmi Nagar<br />
-      Thandalam, Chennai - 602 105.<br />
-      Phone : +91-44-67181111, 67181112<br />
-<!--      Fax : +91-44-37181113<br /> -->
-      e-mail : admin@rajalakshmi.edu.in<br />
-      Website : www.rajalakshmi.org<br /><br />
+      </strong>Chadalawada Ramanamma Engineering College (CREC), <br>
+Chadalawada Nagar, Tirupati. <br>
+Phone :9160451118, 7207941252
+      <br />
     </div>
     <div class="col-md-6"><strong class="strong-title">Important Contact Numbers :</strong><br />
-Admissions: +91-44-26442472, 26461316, 26460124, 67181111, 67181112<br />
-Helpdesk: +91-9025671066, 9052671077<br />
-Principal : +91-44-67181001<br />
-HR : +91-44-67181020<br />
-Training : +91-9381981015<br /><br />
+Contact Number: 9160451118, 7207941252<br />
+<br />
 <strong class="strong-title">Departments</strong><br />
-Aeronautical : hod.aero@rajalakshmi.edu.in<br />
-AIML: hod.aiml@rajalakshmi.edu.in<br/>
-Automobile : hod.auto@rajalakshmi.edu.in<br />
-Biomedical : hod.bme@rajalakshmi.edu.in<br />
-Biotech : hod.bt@rajalakshmi.edu.in<br />
-Chemical : hod.chem@rajalakshmi.edu.in<br />
-Civil : hod.civil@rajalakshmi.edu.in<br />
-CSE : hod.cse@rajalakshmi.edu.in<br />
-EEE : hod.eee@rajalakshmi.edu.in<br />
-ECE : hod.ece@rajalakshmi.edu.in<br />
-IT : hod.it@rajalakshmi.edu.in<br />
-Maths : hod.maths@rajalakshmi.edu.in<br />
-MBA : hod.mba@rajalakshmi.edu.in<br />
-Mechanical : hod.mech@rajalakshmi.edu.in<br />
-Placement : placement@rajalakshmi.edu.in<br />
+Humanities and Sciences <br>
+Computer Science and Engineering <br>
+Electronics and Communication Engineering <br>
+Electrical and Electronics Engineering <br>
+Civil Engineering <br>
+Mechanical Engineering <br>
+MBA <br>
+MCA (CAD) <br>
+Polytechnic Course
 <!--
 Gents Hostel (Old): +91-44-37107373<br />
 Gents Hostel (New): +91-44-37106060<br /><br />

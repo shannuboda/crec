@@ -17,22 +17,16 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-    <meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Chennai" />
-    <meta name="Description" content="Chadalawada Ramanamma Engineering College, Chennai" />
+    <meta itemprop="name" content="Chadalawada Ramanamma Engineering College, Tirupthi" />
+    <meta name="Description" content="Chadalawada Ramanamma Engineering College, Tirupthi" />
     <meta name="keywords"
-        content="College in chennai, Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Chennai" />
+        content="College in Tirupthi, Engineering College in TamilnaduChadalawada Ramanamma Engineering College, Tirupthi" />
     <meta name="robots" content="index,follow">
     <link rel="shortcut icon" href="./image/crec-files/1593851799020.jpg">
-    <meta property="og:title" content="Chadalawada Ramanamma Engineering College, Chennai">
+    <meta property="og:title" content="Chadalawada Ramanamma Engineering College, Tirupthi">
     <meta property="og:type" content="content">
-    <meta property="og:image" content="https://www.rajalakshmi.org/engineering-admissions-2017/image/site_desc.jpg">
     <meta property="og:image:type" content="image/jpeg">
-    <meta property="og:url" content="https://rajalakshmi.org">
-    <meta property="og:site_name" content="Rajalakshmi Engineering College Chennai, Engineering Admission 2017">
-    <meta property="og:description"
-        content="Rajalakshmi Engineering College, approved by AICTE, New Delhi, established in the year 1997 currently offers 14 UG and 9 PG courses and also offers 9 Research programmes (Ph.D./M.S.). ">
-    <meta name="google-site-verification" content="mD0Van-bkokkLfAG2HLtIh2uQNt2utECAXBoAxQOWXw" />
-    <meta name="facebook-domain-verification" content="trlupjxgtzur1yiahpwufmcaju7bv7" />
+    
     <meta property="og:locale" content="en_US">
     <style>
     .banner-8 {

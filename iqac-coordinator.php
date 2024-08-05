@@ -38,7 +38,10 @@
     .banner-8 {
         min-height: 500px;
     }
-
+    h3{
+    color: brown!important;
+    text-decoration: underline;
+}
     .d-none {
         display: none;
     }
@@ -113,11 +116,19 @@
         }
     }
 
-    ul>li {
+    #iqac-intro ul>li {
         margin-bottom: 1.5rem !important;
     }
 
-    ol>li {
+   #iqac-intro ol>li {
+        margin-bottom: 1.5rem !important;
+    }
+
+    #benifits ul>li {
+        margin-bottom: 1.5rem !important;
+    }
+
+   #benifits ol>li {
         margin-bottom: 1.5rem !important;
     }
     </style>
@@ -223,36 +234,7 @@
 
                 </div>
 
-                <div id="aqar" class="main-content" style="display: none;">
-                    <!-- Content for AQAR -->
-                    <h1 class="page-title">IQAC - AQARs</h1>
-                    <div class="clearfix"></div>
-                    <div class="col-md-12">
-                        <p>
-                            <strong>Rajalakshmi Engineering College - AQAR - IQAC</strong>
-                            <br>
-                        <table class="table">
-                            <tr>
-                                <td>2020-21</td>
-                                <td><a href="iqac/downloads/AQAR20-21.pdf">AQAR 2020-21</td>
-                            </tr>
-                            <tr>
-                                <td>2019-20</td>
-                                <td><a href="iqac/downloads/AQAR19-20.pdf">AQAR 2019-20</td>
-                            </tr>
-                            <tr>
-                                <td>2018-19</td>
-                                <td><a href="iqac/downloads/AQAR18-19.pdf">AQAR 2018-19</td>
-                            </tr>
-                            <tr>
-                                <td>2017-18</td>
-                                <td><a href="iqac/downloads/AQAR17-18.pdf">AQAR 2017-18</td>
-                            </tr>
-
-                        </table>
-                        </p>
-                    </div>
-                </div>
+             
                 <div id="benifits" class="main-content" style="display: none;">
                     <!-- Content for Audited Stmt -->
                     <h1 class="page-title">IQAC - Benefits and contributions</h1>

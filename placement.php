@@ -54,7 +54,10 @@
     .float-right-2 a {
         padding: 5px 0px;
     }
-
+h3{
+    color: brown!important;
+    text-decoration: underline;
+}
     @media (min-width: 770px) {
         .banner-8 {
             background: url(../image/banner-9.jpg) no-repeat;

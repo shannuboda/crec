@@ -81,8 +81,10 @@ li.dropdown:hover .nav li {
 	color: #fff;
 }
 .logo-section img.logo {
-	width: 136%;
+	width: 100%;
 }
+
+
 .col-md-5-custom {
 	width: 38% !important;
 }
@@ -175,6 +177,7 @@ li.dropdown:hover .nav li {
 @media (min-width: 770px) {
 .navbar {
 	padding-left: 0px;
+	margin: auto!important;
 }
 .dropdown a {
 font-size: 12px;
@@ -510,6 +513,7 @@ blockquote {
 }
 .breadcrumb {
  margin: 5px;
+ color: darkred;
 }
 .left-bar ul {
  list-style: none;
@@ -661,6 +665,7 @@ position: relative;
 .collapse {
  display: none !important;
 }
+
 }
 .members {
  min-height: 100px;
@@ -770,4 +775,15 @@ svg#information:hover {
  border-radius:0px;
 }
 }
+
+.impersons {
+    width: 46%;
+    height: 41rem;
+    border-radius: 6px;
+    /* margin: 10px 0px; */
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+
 
